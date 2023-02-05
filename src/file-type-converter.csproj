@@ -4,7 +4,7 @@
     <OutputType>Exe</OutputType>
     <TargetFramework>net7.0</TargetFramework>
     <langVersion>11</langVersion>
-    <FileVersion>0.9</FileVersion>
+
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
 
@@ -25,7 +25,9 @@
     <PackageReference Include="System.Configuration.ConfigurationManager" Version="7.0.0" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="../../dexters-labor/src/dexters-labor.csproj" />
+    <Reference Include="DextersLabor">
+      <HintPath>../libs/dexters-labor.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Content Include=".config/*.*">
