@@ -1,0 +1,36 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <langVersion>11</langVersion>
+
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+
+    <FileVersion>0.1</FileVersion>
+    <IncludeOpenAPIAnalyzers>true</IncludeOpenAPIAnalyzers>
+
+    <CopyRefAssembliesToPublishDirectory>false</CopyRefAssembliesToPublishDirectory>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <GenerateTargetFrameworkAttribute>false</GenerateTargetFrameworkAttribute>
+    <SatelliteResourceLanguages>de</SatelliteResourceLanguages>
+  </PropertyGroup>
+
+  <!-- Activate this group to create xml comments on build (file is meh) -->
+  <!-- <PropertyGroup>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <DocumentationFile>bin/MyApi.XML</DocumentationFile>
+    <NoWarn>$(NoWarn);1591</NoWarn>
+  </PropertyGroup> -->
+
+  <ItemGroup>
+    <!-- <PackageReference Include="Newtonsoft.Json" Version="13.0.1" /> -->
+
+    <!-- <ProjectReference Include="../../JsonToSQL/JsonToSQL/JsonToSQL.csproj" /> -->
+
+    <!-- <Content Include="assets/*">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content> -->
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,8 @@
+{
+  "mssql.saveAsCsv.delimiter": ";",
+  // "dotnet-test-explorer.testProjectPath": "/tests/meta-test/meta-test.csproj",
+  "pathToCwd": "${workspaceFolder}/src/",
+  "pathToCsproj": "${workspaceFolder}/src/_meta.csproj",
+  "pathToDll": "${workspaceFolder}/src/bin/Debug/net7.0/_meta.dll"
+
+}

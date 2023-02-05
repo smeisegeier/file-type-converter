@@ -1,0 +1,47 @@
+{
+  "version": "2.0.0",
+  // "options": {
+  //   "env": {
+  //     "pathToCsproj": "${workspaceFolder}/CancerDataGeneratorCode/Rki.CancerDataGenerator.csproj"
+  //   }
+  // },
+  "tasks": [
+    {
+      "label": "build",
+      "command": "dotnet",
+      "type": "process",
+      "args": [
+        "build",
+        "${config:pathToCsproj}",
+        "/property:GenerateFullPaths=true",
+        "/consoleloggerparameters:NoSummary"
+      ],
+      "problemMatcher": "$msCompile"
+    },
+    {
+      "label": "publish",
+      "command": "dotnet",
+      "type": "process",
+      "args": [
+        "publish",
+        "${config:pathToCsproj}",
+        "/property:GenerateFullPaths=true",
+        "/consoleloggerparameters:NoSummary"
+      ],
+      "problemMatcher": "$msCompile"
+    },
+    {
+      "label": "watch",
+      "command": "dotnet",
+      "type": "process",
+      "args": ["watch", "run", "--project", "${config:pathToCsproj}"],
+      "problemMatcher": "$msCompile"
+    },
+    {
+      "label": "echo",
+      "type": "shell",
+      //"command": "echo workspaceFolder -> $env:pathToCsproj" // alternative
+      "command": "echo variable -> ${config:pathToDll}"
+    }
+  ]
+}
