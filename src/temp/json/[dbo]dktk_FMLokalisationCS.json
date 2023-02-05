@@ -1,0 +1,62 @@
+[
+  {
+    "Code": "PUL",
+    "Description": "Lunge",
+    "CreatedAt": "2023-02-05T19:44:19.8400736+01:00"
+  },
+  {
+    "Code": "OSS",
+    "Description": "Knochen",
+    "CreatedAt": "2023-02-05T19:44:19.8400775+01:00"
+  },
+  {
+    "Code": "HEP",
+    "Description": "Leber",
+    "CreatedAt": "2023-02-05T19:44:19.840078+01:00"
+  },
+  {
+    "Code": "BRA",
+    "Description": "Hirn",
+    "CreatedAt": "2023-02-05T19:44:19.8400782+01:00"
+  },
+  {
+    "Code": "LYM",
+    "Description": "Lymphknoten",
+    "CreatedAt": "2023-02-05T19:44:19.8400784+01:00"
+  },
+  {
+    "Code": "MAR",
+    "Description": "Knochenmark",
+    "CreatedAt": "2023-02-05T19:44:19.8400792+01:00"
+  },
+  {
+    "Code": "PLE",
+    "Description": "Pleura",
+    "CreatedAt": "2023-02-05T19:44:19.8400795+01:00"
+  },
+  {
+    "Code": "PER",
+    "Description": "Peritoneum",
+    "CreatedAt": "2023-02-05T19:44:19.8400798+01:00"
+  },
+  {
+    "Code": "ADR",
+    "Description": "Nebennieren",
+    "CreatedAt": "2023-02-05T19:44:19.8400801+01:00"
+  },
+  {
+    "Code": "SKI",
+    "Description": "Haut",
+    "CreatedAt": "2023-02-05T19:44:19.8400806+01:00"
+  },
+  {
+    "Code": "OTH",
+    "Description": "Andere Organe",
+    "CreatedAt": "2023-02-05T19:44:19.8400808+01:00"
+  },
+  {
+    "Code": "GEN",
+    "Description": "Generalisierte Metastasierung",
+    "CreatedAt": "2023-02-05T19:44:19.8400811+01:00"
+  }
+]

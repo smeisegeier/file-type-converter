@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<restriction base="string">
+   <enumeration>
+      <Code>M</Code>
+      <Name>Männlich</Name>
+   </enumeration>
+   <enumeration>
+      <Code>W</Code>
+      <Name>Weiblich</Name>
+   </enumeration>
+   <enumeration>
+      <Code>D</Code>
+      <Name>Divers</Name>
+   </enumeration>
+   <enumeration>
+      <Code>X</Code>
+      <Name>keine Angabe / unbestimmt</Name>
+   </enumeration>
+   <enumeration>
+      <Code>U</Code>
+      <Name>Unbekannt</Name>
+   </enumeration>
+</restriction>

@@ -1,0 +1,27 @@
+<restriction base="string">
+    <enumeration value="M">
+        <annotation>
+            <documentation>Männlich</documentation>
+        </annotation>
+    </enumeration>
+    <enumeration value="W">
+        <annotation>
+            <documentation>Weiblich</documentation>
+        </annotation>
+    </enumeration>
+    <enumeration value="D">
+        <annotation>
+            <documentation>Divers</documentation>
+        </annotation>
+    </enumeration>
+    <enumeration value="X">
+        <annotation>
+            <documentation>keine Angabe / unbestimmt</documentation>
+        </annotation>
+    </enumeration>
+    <enumeration value="U">
+        <annotation>
+            <documentation>Unbekannt</documentation>
+        </annotation>
+    </enumeration>
+</restriction>

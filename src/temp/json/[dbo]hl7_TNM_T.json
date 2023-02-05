@@ -1,0 +1,212 @@
+[
+  {
+    "Code": "TX",
+    "Description": "TX",
+    "CreatedAt": "2023-02-05T19:44:20.8802974+01:00"
+  },
+  {
+    "Code": "T0",
+    "Description": "T0",
+    "CreatedAt": "2023-02-05T19:44:20.8803007+01:00"
+  },
+  {
+    "Code": "Ta",
+    "Description": "Ta",
+    "CreatedAt": "2023-02-05T19:44:20.880301+01:00"
+  },
+  {
+    "Code": "Tis",
+    "Description": "Tis",
+    "CreatedAt": "2023-02-05T19:44:20.8803015+01:00"
+  },
+  {
+    "Code": "Tis(LAMN)",
+    "Description": "Tis(LAMN)",
+    "CreatedAt": "2023-02-05T19:44:20.8803017+01:00"
+  },
+  {
+    "Code": "Tis(DCIS)",
+    "Description": "Tis(DCIS)",
+    "CreatedAt": "2023-02-05T19:44:20.8803022+01:00"
+  },
+  {
+    "Code": "Tis(LCIS)",
+    "Description": "Tis(LCIS)",
+    "CreatedAt": "2023-02-05T19:44:20.8803025+01:00"
+  },
+  {
+    "Code": "Tis(Paget)",
+    "Description": "Tis(Paget)",
+    "CreatedAt": "2023-02-05T19:44:20.8803028+01:00"
+  },
+  {
+    "Code": "Tis(pu)",
+    "Description": "Tis(pu)",
+    "CreatedAt": "2023-02-05T19:44:20.880303+01:00"
+  },
+  {
+    "Code": "Tis(pd)",
+    "Description": "Tis(pd)",
+    "CreatedAt": "2023-02-05T19:44:20.8803033+01:00"
+  },
+  {
+    "Code": "T1",
+    "Description": "T1",
+    "CreatedAt": "2023-02-05T19:44:20.880304+01:00"
+  },
+  {
+    "Code": "T1mi",
+    "Description": "T1mi",
+    "CreatedAt": "2023-02-05T19:44:20.8803044+01:00"
+  },
+  {
+    "Code": "T1a",
+    "Description": "T1a",
+    "CreatedAt": "2023-02-05T19:44:20.8803046+01:00"
+  },
+  {
+    "Code": "T1a1",
+    "Description": "T1a1",
+    "CreatedAt": "2023-02-05T19:44:20.8803049+01:00"
+  },
+  {
+    "Code": "T1a2",
+    "Description": "T1a2",
+    "CreatedAt": "2023-02-05T19:44:20.8803052+01:00"
+  },
+  {
+    "Code": "T1b",
+    "Description": "T1b",
+    "CreatedAt": "2023-02-05T19:44:20.8803054+01:00"
+  },
+  {
+    "Code": "T1b1",
+    "Description": "T1b1",
+    "CreatedAt": "2023-02-05T19:44:20.8803056+01:00"
+  },
+  {
+    "Code": "T1b2",
+    "Description": "T1b2",
+    "CreatedAt": "2023-02-05T19:44:20.8803059+01:00"
+  },
+  {
+    "Code": "T1c",
+    "Description": "T1c",
+    "CreatedAt": "2023-02-05T19:44:20.8803061+01:00"
+  },
+  {
+    "Code": "T1c1",
+    "Description": "T1c1",
+    "CreatedAt": "2023-02-05T19:44:20.8803062+01:00"
+  },
+  {
+    "Code": "T1c2",
+    "Description": "T1c2",
+    "CreatedAt": "2023-02-05T19:44:20.8803065+01:00"
+  },
+  {
+    "Code": "T1c3",
+    "Description": "T1c3",
+    "CreatedAt": "2023-02-05T19:44:20.8803067+01:00"
+  },
+  {
+    "Code": "T1d",
+    "Description": "T1d",
+    "CreatedAt": "2023-02-05T19:44:20.8803068+01:00"
+  },
+  {
+    "Code": "T2",
+    "Description": "T2",
+    "CreatedAt": "2023-02-05T19:44:20.880307+01:00"
+  },
+  {
+    "Code": "T2a",
+    "Description": "T2a",
+    "CreatedAt": "2023-02-05T19:44:20.8803071+01:00"
+  },
+  {
+    "Code": "T2a1",
+    "Description": "T2a1",
+    "CreatedAt": "2023-02-05T19:44:20.8803072+01:00"
+  },
+  {
+    "Code": "T2a2",
+    "Description": "T2a2",
+    "CreatedAt": "2023-02-05T19:44:20.8803074+01:00"
+  },
+  {
+    "Code": "T2b",
+    "Description": "T2b",
+    "CreatedAt": "2023-02-05T19:44:20.8803075+01:00"
+  },
+  {
+    "Code": "T2c",
+    "Description": "T2c",
+    "CreatedAt": "2023-02-05T19:44:20.8803076+01:00"
+  },
+  {
+    "Code": "T2d",
+    "Description": "T2d",
+    "CreatedAt": "2023-02-05T19:44:20.8803079+01:00"
+  },
+  {
+    "Code": "T3",
+    "Description": "T3",
+    "CreatedAt": "2023-02-05T19:44:20.8803081+01:00"
+  },
+  {
+    "Code": "T3a",
+    "Description": "T3a",
+    "CreatedAt": "2023-02-05T19:44:20.8803083+01:00"
+  },
+  {
+    "Code": "T3b",
+    "Description": "T3b",
+    "CreatedAt": "2023-02-05T19:44:20.8803085+01:00"
+  },
+  {
+    "Code": "T3c",
+    "Description": "T3c",
+    "CreatedAt": "2023-02-05T19:44:20.8803087+01:00"
+  },
+  {
+    "Code": "T3d",
+    "Description": "T3d",
+    "CreatedAt": "2023-02-05T19:44:20.8803091+01:00"
+  },
+  {
+    "Code": "T3e",
+    "Description": "T3e",
+    "CreatedAt": "2023-02-05T19:44:20.8803093+01:00"
+  },
+  {
+    "Code": "T4",
+    "Description": "T4",
+    "CreatedAt": "2023-02-05T19:44:20.8803133+01:00"
+  },
+  {
+    "Code": "T4a",
+    "Description": "T4a",
+    "CreatedAt": "2023-02-05T19:44:20.8803136+01:00"
+  },
+  {
+    "Code": "T4b",
+    "Description": "T4b",
+    "CreatedAt": "2023-02-05T19:44:20.8803139+01:00"
+  },
+  {
+    "Code": "T4c",
+    "Description": "T4c",
+    "CreatedAt": "2023-02-05T19:44:20.8803141+01:00"
+  },
+  {
+    "Code": "T4d",
+    "Description": "T4d",
+    "CreatedAt": "2023-02-05T19:44:20.8803143+01:00"
+  },
+  {
+    "Code": "T4e",
+    "Description": "T4e",
+    "CreatedAt": "2023-02-05T19:44:20.8803145+01:00"
+  }
+]
