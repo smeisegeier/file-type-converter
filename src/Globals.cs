@@ -6,8 +6,6 @@ using DextersLabor.Helper;
 
 namespace Rki.CancerData.Clinical.TableConverter.App;
 
-// todo rename repo, its not in cancer scope
-
 public static class Globals
 {
     public static StructureSupport.HostType HostType = ReflectionSupport.GetHostNameType(ReflectionSupport.GetHostName());
