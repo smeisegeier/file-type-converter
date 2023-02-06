@@ -47,3 +47,42 @@
     <PackageReference Include="System.Configuration.ConfigurationManager" Version="7.0.0" />
   </ItemGroup>
 ```
+## xslt
+
+### goal
+
+- given `xml` files shall be transformed via `xslt`
+
+### setup
+
+1. install `saxon-he` ("_home edition_") via **nuget**
+1. install `deltaXML` **extension** for vscode
+1. organize files in folder (eg xslt)
+   1. `test-source.xml`
+   2. `transform.xslt`
+1. for `xslt`: _select language mode_ in vscode, assign file extensions etc
+1. via **F1** menu _configure build task_ and select the new saxon-js task. it is now integrated in `task.json`
+1. configure the task to use `${fileDirname}`
+
+```json
+{
+  "type": "xslt-js",
+  "label": "xslt-js: Saxon-JS Transform (New)",
+  "xsltFile": "${file}",
+  "xmlSource": "${fileDirname}/test-source.xml",
+  "resultPath": "${fileDirname}/result.xml",
+  "group": {
+    "kind": "build"
+  },
+  "problemMatcher": ["$saxon-xslt-js"]
+}
+```
+
+7. `ctrl-shift-B` or _run build task_ (package loads components on first use) when _within_ the xslt
+
+### resources
+
+- [data2type](https://www.data2type.de/xml-xslt-xslfo/xslt#c45)
+- [SO](https://stackoverflow.com/questions/38267254/xslt-apply-two-different-template-in-sequence)
+- [deltaXML](https://marketplace.visualstudio.com/items?itemName=deltaxml.xslt-xpath)
+
