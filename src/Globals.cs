@@ -22,7 +22,7 @@ public static class Globals
     public static SqlSupportDbConnection db_zfkd_fhirmeta = new SqlSupportDbConnection("FhirMeta", Globals.SERVER_PROD);
     public static SqlSupportDbConnection db_zfkd_offis_dwh = new SqlSupportDbConnection("KKrModel_RKI", Globals.SERVER_PROD);
     public static SqlSupportDbConnection db_zfkd_caress = new SqlSupportDbConnection("CARESS9100_2021", Globals.SERVER_PROD);
-    public static SqlSupportDbConnection db_zfkd_epi = new SqlSupportDbConnection("ZfkdEpi2021", Globals.SERVER_PROD);
-    public static SqlSupportDbConnection db_zfkd_meta = new SqlSupportDbConnection("ZfkdMeta2021", Globals.SERVER_PROD);
+    public static SqlSupportDbConnection db_zfkd_epi = new SqlSupportDbConnection("ZfkdEpi2022", Globals.SERVER_PROD);
+    public static SqlSupportDbConnection db_zfkd_meta = new SqlSupportDbConnection("ZfkdMeta2022", Globals.SERVER_PROD);
 
 }

@@ -9,10 +9,10 @@ using Rki.CancerData.Clinical.TableConverter.App.Models;
 
 namespace Rki.CancerData.Clinical.TableConverter.App.BLL;
 
-public class Step0_fhireToJson
+public class Step0_fhirToJson
 {
     /// <summary>
-    /// Fetches all given fhire res to json
+    /// Fetches all given fhir res to json
     /// GetStoragePath is still needed, since using a conversion object here would be bloat
     /// </summary>
 

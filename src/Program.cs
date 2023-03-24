@@ -4,13 +4,13 @@ using Rki.CancerData.Clinical.TableConverter.App;
 using Rki.CancerData.Clinical.TableConverter.App.BLL;
 
 
-Step0_fhireToJson.Start();
+// Step0_fhirToJson.Start();
 // Step0_xmlToJson.Start();
 // Step0_sqlTableToCsv.Start();
 
 // Step1_jsonToCsv.Start();
 
-// Step2_csvToSql.Start(Globals.db_zfkd_fhirmeta);
+Step2_csvToSql.Start(Globals.db_zfkd_fhirmeta);
 
 // Step2_jsonToSql.Start();
 
