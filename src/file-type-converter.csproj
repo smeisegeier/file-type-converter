@@ -28,6 +28,9 @@
     <Reference Include="DextersLabor">
       <HintPath>../libs/dexters-labor.dll</HintPath>
     </Reference>
+    <Reference Include="JsonToSql">
+      <HintPath>../libs/JsonToSql.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Content Include="**/.config/*.*">
