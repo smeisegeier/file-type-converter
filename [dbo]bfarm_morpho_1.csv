@@ -1,0 +1,1146 @@
+code;parent;name;inclusion;exclusion;reference
+8000/0;800-800;Benigne Neoplasie o.n.A.;Benigner Tumor;;
+8000/1;800-800;Neoplasie fraglicher Dignität;Neoplasie o.n.A.;;
+8000/3;800-800;Maligne Neoplasie;Blastom o.n.A.;;
+8000/6;800-800;Neoplasie; Metastase;Sekundäre Neoplasie;
+8000/9;800-800;Maligne Neoplasie; unsicher ob Primärtumor oder Metastase;Unklassifizierter maligner Tumor; unsicher ob Primärtumor oder Metastase
+8001/0;800-800;Benigne Tumorzellen;;;
+8001/1;800-800;Tumorzellen fraglicher Dignität;Tumorzellen o.n.A.;;
+8001/3;800-800;Maligne Tumorzellen;;;
+8002/3;800-800;Kleinzelliger maligner Tumor;;;
+8003/3;800-800;Riesenzelliger maligner Tumor;;;
+8004/3;800-800;Spindelzelliger maligner Tumor;Maligner Tumor vom fusiformen Zelltyp;;
+8005/0;800-800;Klarzelliger Tumor o.n.A.;;;
+8005/3;800-800;Klarzelliger maligner Tumor;;;
+8010/0;801-804;Benigne epitheliale Neoplasie;Benigner epithelialer Tumor;;
+8010/2;801-804;Carcinoma in situ o.n.A.;Intraepitheliales Karzinom o.n.A.;;
+8010/3;801-804;Karzinom o.n.A.;Maligner epithelialer Tumor;;
+8010/6;801-804;Karzinom-Metastase o.n.A.;Sekundäres Karzinom;;
+8010/9;801-804;Karzinomatose;;;
+8011/0;801-804;Benignes Epitheliom;;;
+8011/3;801-804;Malignes Epitheliom;Epitheliom o.n.A.;;
+8012/3;801-804;Großzelliges Karzinom o.n.A.;;;
+8013/3;801-804;Großzelliges neuroendokrines Karzinom;Kombiniertes großzelliges neuroendokrines Karzinom;;
+8014/3;801-804;Großzelliges Karzinom mit rhabdoidem Phänotyp;;;
+8015/3;801-804;Glaszellkarzinom;Glassy cell carcinoma;;
+8020/3;801-804;Undifferenziertes Karzinom o.n.A.;Anaplastisches undifferenziertes Karzinom;;
+8021/3;801-804;Anaplastisches Karzinom o.n.A.;;;
+8022/3;801-804;Pleomorphes Karzinom;;;
+8023/3;801-804;NUT (Nuclear protein in testis)-assoziiertes Karzinom;NUT-Karzinom;;
+8030/3;801-804;Riesenzell- und Spindelzellkarzinom;;;
+8031/3;801-804;Riesenzellkarzinom;;;
+8032/3;801-804;Spindelzellkarzinom o.n.A.;;;
+8033/3;801-804;Pseudosarkomatöses Karzinom;Sarkomatoides Karzinom;;
+8034/3;801-804;Polygonalzelliges Karzinom;;;
+8035/3;801-804;Karzinom mit osteoklastenähnlichen Riesenzellen;;;
+8040/0;801-804;Benignes Tumorlet;;;
+8040/1;801-804;Tumorlet o.n.A.;;;
+8041/3;801-804;Kleinzelliges Karzinom o.n.A.;Kleinzelliges Karzinom vom pulmonalen Typ;;
+8042/3;801-804;Haferzell-KarzinomC34.-;Oat-Cell-Karzinom;;C34
+8043/3;801-804;Kleinzelliges spindelzelliges Karzinom;;;
+8044/3;801-804;Kleinzelliges Karzinom vom Intermediärtyp;Kleinzelliges Karzinom vom hyperkalzämischen Typ C56.9;;
+8045/3;801-804;Kombiniertes kleinzelliges Karzinom;Gemischtes kleinzelliges Karzinom;;
+8046/3;801-804;Nichtkleinzelliges KarzinomC34.-;;;C34
+8050/0;805-808;Papillom o.n.A. (Exkl./ Papillom der Blase8120/0);;;8120/0
+8050/2;805-808;Papilläres Carcinoma in situ;;;
+8050/3;805-808;Papilläres Karzinom o.n.A.;;;
+8051/0;805-808;Verruköses Papillom;;;
+8051/3;805-808;Verruköses Karzinom o.n.A.;Verruköses Epidermoidkarzinom;;
+8052/0;805-808;Plattenepithelpapillom o.n.A.;Keratotisches Papillom;;
+8052/2;805-808;Nichtinvasives papilläres Plattenepithelkarzinom;Papilläres Plattenepithel-Carcinoma in situ;;
+8052/3;805-808;Papilläres Plattenepithelkarzinom;Papilläres Epidermoidkarzinom;;
+8053/0;805-808;Invertiertes Plattenepithel-Papillom;;;
+8054/0;805-808;Warziges Dyskeratom;;;
+8054/3;805-808;Warziges Karzinom;Kondylomatöses Karzinom;;
+8060/0;805-808;Plattenepithel-Papillomatose;Papillomatose o.n.A.;;
+8070/0;805-808;Aktinische Keratose;Arsenkeratose;;
+8070/2;805-808;Plattenepithel-Carcinoma in situ o.n.A.;Epidermoid-Carcinoma in situ o.n.A.;;
+8070/3;805-808;Plattenepithelkarzinom o.n.A.;Epidermoidkarzinom o.n.A.;;
+8070/6;805-808;Plattenepithelkarzinom-Metastase o.n.A.;;;
+8071/2;805-808;Differenzierte intraepitheliale Neoplasie;Differenzierte intraepitheliale Neoplasie des Penis (PeIN) C60.-;;
+8071/3;805-808;Verhornendes Plattenepithelkarzinom o.n.A.;Großzelliges verhornendes Plattenepithelkarzinom;;
+8072/0;805-808;Großzelliges Akanthom;;;
+8072/3;805-808;Großzelliges nichtverhornendes Plattenepithelkarzinom o.n.A.;Großzelliges nichtverhornendes Epidermoidkarzinom;;
+8073/3;805-808;Kleinzelliges nichtverhornendes Plattenepithelkarzinom;Kleinzelliges nichtverhornendes Epidermoidkarzinom;;
+8074/3;805-808;Spindelzelliges Plattenepithelkarzinom;Sarkomatöses Plattenepithelkarzinom;;
+8075/3;805-808;Adenoides Plattenepithelkarzinom;Akantholytisches Plattenepithelkarzinom;;
+8076/2;805-808;Plattenepithel-Carcinoma in situ mit fraglicher Stromainvasion;Epidermoid-Carcinoma in situ mit fraglicher Stromainvasion;;
+8076/3;805-808;Mikroinvasives Plattenepithelkarzinom;;;
+8077/0;805-808;Squamöse intraepitheliale Neoplasie; niedriggradig;Niedriggradige squamöse intraeptheliale Läsion;
+8077/2;805-808;Squamöse intraepitheliale Neoplasie; hochgradig;Hochgradige squamöse Dysplasie;
+8078/3;805-808;Plattenepithelkarzinom mit Hornbildung;;;
+8080/2;805-808;Erythroplasie QueyratC60.-;;;C60
+8081/2;805-808;M. BowenC44.-;Intraepitheliales Plattenepithelkarzinom vom Bowen-TypC44.-;;C44
+8082/3;805-808;Lymphoepitheliales Karzinom;Lymphoepitheliales Plattenepithelkarzinom;;
+8083/3;805-808;Basaloides Plattenepithelkarzinom;Papilläres Basaloidkarzinom;;
+8084/0;805-808;Klarzellakanthom;;;
+8084/3;805-808;Klarzelliges Plattenepithelkarzinom;;;
+8085/3;805-808;Plattenepithelkarzinom; HPV-positiv;;
+8086/3;805-808;Plattenepithelkarzinom; HPV-negativ;;
+8090/1;809-811;BasalzelltumorC44.-;;;C44
+8090/3;809-811;Basalzellkarzinom o.n.A.C44.-;BasalzellepitheliomC44.-;;C44
+8091/3;809-811;Superfizielles Basalzellkarzinom C44.-;Multifokales oberflächliches BasalzellkarzinomC44.-;;C44
+8092/3;809-811;Infiltrierendes Basalzellkarzinom o.n.A.C44.-;Nicht sklerosierendes infiltrierendes BasalzellkarzinomC44.-;;C44
+8093/3;809-811;Fibroepitheliales BasalzellkarzinomC44.-;Fibroepitheliales Basalzellkarzinom Pinkus;;C44
+8094/3;809-811;Basosquamöses KarzinomC44.-;Gemischt basalzellig-plattenepitheliales KarzinomC44.-;;C44
+8095/3;809-811;Metatypisches KarzinomC44.-;;;C44
+8096/0;809-811;Intraepidermales Epitheliom Typ Borst-JadassohnC44.-;;;C44
+8097/3;809-811;Noduläres BasalzellkarzinomC44.-;Mikronoduläres BasalzellkarzinomC44.-;;C44
+8098/3;809-811;Adenoides BasalzellkarzinomC53.-;;;C53
+8100/0;809-811;TrichoepitheliomC44.-;Brooke-TumorC44.-;;C44
+8100/3;809-811;Trichoblastisches KarzinomC44.-;Trichoblastisches KarzinosarkomC44.-;;C44
+8101/0;809-811;TrichofollikulomC44.-;;;C44
+8102/0;809-811;TricholemmomC44.-;;;C44
+8102/3;809-811;TricholemmkarzinomC44.-;Tricholemmales KarzinomC44.-;;C44
+8103/0;809-811;PilartumorC44.-;;;C44
+8103/1;809-811;Proliferierende TricholemmzysteC44.-;Proliferierender tricholemmaler TumorC44.-;;C44
+8104/0;809-811;PilarscheidenakanthomC44.-;Tumor des follikulären InfundibulumsC44.-;;C44
+8110/0;809-811;Pilomatrikom; o.n.A.C44.-;Pilomatrixom; o.n.A.C44.-
+8110/3;809-811;Pilomatrikales KarzinomC44.-;Malignes Pilomatrikom C44.-;;C44
+8120/0;812-813;Urothelpapillom o.n.A.;Benignes Übergangszellpapillom [obs.];;
+8120/2;812-813;Urothel-Carcinoma in situ;Übergangszell-Carcinoma in situ;;
+8120/3;812-813;Übergangszellkarzinom o.n.A.;Urothelkarzinom o.n.A.;;
+8121/0;812-813;Exophytisches sinonasales PapillomC30.0C31.-;Fungiformes sinonasales PapillomC30.0C31.- [obs.];;
+8121/1;812-813;Invertiertes sinonasales PapillomC30.0C31.-;Invertiertes Schneider-PapillomC30.0C31.-;;
+8121/3;812-813;Schneider-KarzinomC30.0C31.-;ZylinderzellkarzinomC30.0C31.-;;
+8122/3;812-813;Sarkomatoides Urothelkarzinom;Sarkomartiges Übergangszellkarzinom;;
+8123/3;812-813;Basaloidkarzinom;;;
+8124/3;812-813;Kloakogenes KarzinomC21.2 [obs.];;;
+8130/1;812-813;Papilläre Neoplasie des Urothels mit niedrigem MalignitätspotentialC67.-;Papilläre Neoplasie der Übergangszellen mit niedrigem MalignitätspotentialC67.-;;C67
+8130/2;812-813;Nichtinvasives papilläres UrothelkarzinomC67.-;Nichtinvasives papilläres ÜbergangszellkarzinomC67.-;;C67
+8130/3;812-813;Papilläres UrothelkarzinomC67.- [obs.];Papilläres ÜbergangszellkarzinomC67.- [obs.];;C67
+8131/3;812-813;Mikropapilläres UrothelkarzinomC67.-;Mikropapilläres ÜbergangszellkarzinomC67.-;;C67
+8140/0;814-838;Adenom o.n.A.;;;
+8140/1;814-838;Atypisches Adenom;Bronchialadenom o.n.A.C34.-;;
+8140/2;814-838;Adenocarcinoma in situ o.n.A.;;;
+8140/3;814-838;Adenokarzinom o.n.A.;Gewöhnliches Adenokarzinom;;
+8140/6;814-838;Adenokarzinom-Metastase o.n.A.;;;
+8141/3;814-838;Szirrhöses Adenokarzinom [obs.];Karzinom mit produktiver Fibrose [obs.];;
+8142/3;814-838;Linitis plasticaC16.-;;;C16
+8143/3;814-838;Oberflächlich spreitendes Adenokarzinom;;;
+8144/0;814-838;Adenom vom intestinalen Typ;;;
+8144/3;814-838;Adenokarzinom vom intestinalen TypC16.-;Enterales Adenokarzinom;;C16
+8145/3;814-838;Diffuses KarzinomC16.-;Diffuses AdenokarzinomC16.-;;C16
+8146/0;814-838;Monomorphes Adenom;;;
+8147/0;814-838;Basalzelladenom;;;
+8147/3;814-838;Basalzell-Adenokarzinom;;;
+8148/0;814-838;Glanduläre intraepitheliale Neoplasie; niedriggradig;Glanduläre intraepitheliale Neoplasie Grad 1;
+8148/2;814-838;Glanduläre intraepitheliale Neoplasie; hochgradig;Glanduläre intraepitheliale Neoplasie Grad 3;
+8149/0;814-838;Intrakanalikuläres Adenom;;;
+8150/0;814-838;Neuroendokrines Pankreas-MikroadenomC25.4;Benigner endokriner PankreastumorC25.4 [obs.];;C25.4
+8150/3;814-838;Neuroendokriner Pankreastumor; hormoninaktivC25.4;Endokriner Pankreastumor; hormoninaktivC25.4
+8151/3;814-838;Insulinom o.n.A.C25.4;Beta-Zell-AdenomC25.4;;C25.4
+8152/3;814-838;Glukagonom;Alpha-Zell-Tumor;;
+8153/1;814-838;Gastrinom o.n.A.;G-Zell-Tumor o.n.A.;;
+8153/3;814-838;Gastrinom;G-Zell-Tumor;;
+8154/3;814-838;Maligner gemischter endokriner und exokriner PankreastumorC25.-;Gemischtes Inselzell- und exokrines AdenokarzinomC25.-;;C25
+8155/1;814-838;Vipom o.n.A.;;;
+8155/3;814-838;Malignes Vipom;;;
+8156/3;814-838;Malignes Somatostatinom;Maligner Somatostatin-Zell-Tumor;;
+8158/3;814-838;ACTH-produzierender Tumor;Endokriner Tumor; hormonaktiv; o.n.A. [obs.]
+8160/0;814-838;GallengangsadenomC22.1C24.0;CholangiomC22.1C24.0;;
+8160/3;814-838;Intrahepatisches CholangiokarzinomC22.1C24.0;Gallengangs-AdenokarzinomC22.1C24.0;;
+8161/0;814-838;Gallengangs-ZystadenomC22.1C24.0;;;
+8161/3;814-838;Gallengangs-ZystadenokarzinomC22.1C24.0;;;
+8162/3;814-838;Perihiläres CholangiokarzinomC24.0;Klatskin-Tumor C24.0 [obs.];;
+8163/0;814-838;Pankreatobiliäre Neoplasie; nichtinvasiv;Nichtinvasive pankreatobiliäre papilläre Neoplasie mit niedriggradiger Dysplasie;
+8163/2;814-838;Papilläre Neoplasie; pankreatobiliären Typs; mit hochgradiger intraepithelialer NeoplasieC24.1;Nichtinvasive pankreatobiliäre papilläre Neoplasie mit hochgradiger DysplasieC24.1
+8163/3;814-838;Karzinom vom pankreatobiliären TypC24.1;Adenokarzinom vom pankreatobiliären TypC24.1;;
+8170/0;814-838;LeberzelladenomC22.0;Benignes HepatomC22.0;;
+8170/3;814-838;Hepatozelluläres Karzinom o.n.A.C22.0;HepatokarzinomC22.0;;
+8171/3;814-838;Fibrolamelläres LeberzellkarzinomC22.0;;;
+8172/3;814-838;Szirrhöses hepatozelluläres KarzinomC22.0;Sklerosierendes hepatozelluläres KarzinomC22.0;;
+8173/3;814-838;Spindelzelliges hepatozelluläres KarzinomC22.0;Sarkomatoides hepatozelluläres KarzinomC22.0;;
+8174/3;814-838;Klarzelliges hepatozelluläres KarzinomC22.0;;;
+8175/3;814-838;Pleomorphes hepatozelluläres KarzinomC22.0;;;
+8180/3;814-838;Kombiniertes hepatozelluläres Karzinom und CholangiokarzinomC22.0;Gemischtes Leberzell- und GallengangskarzinomC22.0;;
+8190/0;814-838;Trabekuläres Adenom;;;
+8190/3;814-838;Trabekuläres Adenokarzinom;Trabekuläres Karzinom;;
+8191/0;814-838;Embryonales Adenom;;;
+8200/0;814-838;Ekkrines dermales ZylindromC44.-;TurbantumorC44.4;;C44
+8200/3;814-838;Adenoid-zystisches Karzinom;Adenozystisches Karzinom;;
+8201/2;814-838;Kribriformes Carcinoma in situC50.-;Kribriformes duktales Carcinoma in situC50.-;;C50
+8201/3;814-838;Kribriformes Karzinom o.n.A.;Kribriformes duktales KarzinomC50.-;;
+8202/0;814-838;Mikrozystisches AdenomC25.-;;;C25
+8204/0;814-838;Laktierendes AdenomC50.-;;;C50
+8210/0;814-838;Adenomatöser Polyp o.n.A.;Polypoides Adenom;;
+8210/2;814-838;Adenocarcinoma in situ in adenomatösem Polypen;Adenocarcinoma in situ in einem Polypen o.n.A.;;
+8210/3;814-838;Adenokarzinom in adenomatösem Polypen;Adenokarzinom in einem Polypen o.n.A.;;
+8211/0;814-838;Tubuläres Adenom o.n.A.;;;
+8211/3;814-838;Tubuläres Adenokarzinom;Tubuläres Karzinom;;
+8212/0;814-838;Flaches Adenom;Flat adenoma;;
+8213/0;814-838;Serrated adenoma o.n.A.C18.-;Traditional serrated adenoma;;C18
+8213/3;814-838;Serrated adenocarcinoma;;;
+8214/3;814-838;ParietalzellkarzinomC16.-;Parietalzell-AdenokarzinomC16.-;;C16
+8215/3;814-838;Adenokarzinom der AnaldrüsenC21.1;Adenokarzinom der ProktodealdrüsenC21.1;;
+8220/0;814-838;Familiäre adenomatöse Polypose [FAP]C18.-;Adenomatose o.n.A.;;C18
+8220/3;814-838;Adenokarzinom in familiärer adenomatöser Polypose [FAP]C18.-;;;C18
+8221/0;814-838;Multiple adenomatöse Polypen;;;
+8221/3;814-838;Adenokarzinom in multiplen adenomatösen Polypen;;;
+8230/2;814-838;Solides duktales Carcinoma in situC50.-;Solides intraduktales Karzinom;;C50
+8230/3;814-838;Solides Karzinom o.n.A.;Solides Adenokarzinom; o.n.A.;
+8231/3;814-838;Carcinoma simplex;;;
+8240/3;814-838;Neuroendokriner Tumor o.n.A.;Karzinoid o.n.A.;;
+8241/3;814-838;Enterochromaffinzell-Karzinoid;Argentaffiner maligner Karzinoidtumor;;
+8242/3;814-838;Maligner Enterochromaffin-like-cell-Tumor;Malignes ECL-Zell-Karzinoid;;
+8243/3;814-838;Becherzellkarzinoid;Mukokarzinoidtumor;;
+8244/3;814-838;Gemischtes adeno-neuroendokrines Karzinom;Gemischtes Karzinoid und Adenokarzinom;;
+8245/1;814-838;Tubuläres Karzinoid;;;
+8245/3;814-838;Adenokarzinoidtumor;;;
+8246/3;814-838;Neuroendokrines Karzinom o.n.A.;Gering differenzierte neuroendokrine Neoplasie;;
+8247/3;814-838;Merkel-Zell-KarzinomC44.-;Merkel-Zell-TumorC44.-;;C44
+8248/1;814-838;Apudom;;;
+8249/3;814-838;Neuroendokriner Tumor; Grad 2;Atypischer Karzinoidtumor;
+8250/0;814-838;Atypische adenomatöse Hyperplasie;;;
+8250/1;814-838;LungenadenomatoseC34.-;;;C34
+8250/2;814-838;Nichtmuzinöses Adenocarcinoma in situ der LungeC34.-;;;C34
+8250/3;814-838;Lepidisches AdenokarzinomC34.-;AlveolarzellkarzinomC34.- [obs.];;C34
+8251/0;814-838;Alveoläres AdenomC34.-;;;C34
+8251/3;814-838;Alveoläres AdenokarzinomC34.-;Alveoläres Karzinom;;C34
+8252/3;814-838;Nichtmuzinöses bronchiolo-alveoläres KarzinomC34.-;Bronchiolo-alveoläres Karzinom vom Clara-Zell-TypC34.-;;C34
+8253/2;814-838;Muzinöses Adenocarcinoma in situC34.-;;;C34
+8253/3;814-838;Muzinöses Adenokarzinom der LungeC34.-;Bronchiolo-alveoläres Karzinom vom Becherzell-TypC34.-;;C34
+8254/3;814-838;Gemischtes muzinöses und nichtmuzinöses Adenokarzinom der LungeC34.-;Bronchiolo-alveoläres Karzinom mit unbestimmtem TypC34.-;;C34
+8255/3;814-838;Adenokarzinom mit gemischten Subtypen;Adenokarzinom; kombiniert mit anderen Karzinom-Typen;
+8256/3;814-838;Nichtmuzinöses minimal-invasives AdenokarzinomC34.-;;;C34
+8257/3;814-838;Muzinöses minimal-invasives AdenokarzinomC34.-;;;C34
+8260/0;814-838;Papilläres Adenom o.n.A.;Glanduläres Papillom;;
+8260/1;814-838;Aggressiver papillärer Tumor;;;
+8260/3;814-838;Papilläres Adenokarzinom o.n.A.;Papilläres Karzinom der SchilddrüseC73.9;;
+8261/0;814-838;Villöses Adenom o.n.A.;Villöses Papillom;;
+8261/2;814-838;Adenocarcinoma in situ in villösem Adenom;;;
+8261/3;814-838;Adenokarzinom in villösem Adenom;;;
+8262/3;814-838;Villöses Adenokarzinom;;;
+8263/0;814-838;Tubulovillöses Adenom o.n.A.;Villoglanduläres Adenom;;
+8263/2;814-838;Adenocarcinoma in situ in tubulovillösem Adenom;;;
+8263/3;814-838;Adenokarzinom in tubulovillösem Adenom;Papillotubuläres AdenokarzinomTubulopapilläres Adenokarzinom;;
+8264/0;814-838;Glanduläre Papillomatose;Biliäre PapillomatoseC22.1C24.0;;
+8265/3;814-838;Mikropapilläres Karzinom o.n.A.C18.-C19.9C20.9C34.-;Mikropapilläres AdenokarzinomC18.-C19.9C20.9C34.-;;C18
+8270/0;814-838;Chromophobes AdenomC75.1;;;
+8270/3;814-838;Chromophobes KarzinomC75.1;Chromophobes AdenokarzinomC75.1;;
+8271/0;814-838;Laktotrophes AdenomC75.1;ProlaktinomC75.1;;
+8272/0;814-838;Hypophysenadenom o.n.A.C75.1;Ektopes Hypophysenadenom;;
+8272/3;814-838;Hypophysenkarzinom o.n.A.C75.1;;;
+8273/3;814-838;HypophysenblastomC75.1;;;C75.1
+8280/0;814-838;Azidophiles AdenomC75.1;Eosinophiles AdenomC75.1;;
+8280/3;814-838;Azidophiles KarzinomC75.1;Azidophiles AdenokarzinomC75.1;;
+8281/0;814-838;Gemischtzelliges azidophil-basophiles AdenomC75.1;;;
+8281/3;814-838;Gemischtzelliges azidophil-basophiles KarzinomC75.1;;;
+8290/0;814-838;Oxyphiles Adenom;Onkozytäres Adenom;;
+8290/3;814-838;Oxyphiles Adenokarzinom;Onkozytäres Adenokarzinom;;
+8300/0;814-838;Basophiles AdenomC75.1;MukoidzelladenomC75.1;;
+8300/3;814-838;Basophiles KarzinomC75.1;Basophiles AdenokarzinomC75.1;;
+8310/0;814-838;Klarzelliges Adenom;;;
+8310/3;814-838;Klarzelliges Adenokarzinom o.n.A.;Klarzelliges Karzinom o.n.A.;;
+8311/1;814-838;Hypernephroider Tumor;;;
+8311/3;814-838;HRCC (Hereditary leiomyomatosis and renal cell carcinoma) assoziiertes NierenzellkarzinomC64.9;Nierenzellkarzinom mit Succinatdehydrogenase-MangelC64.9;;C64.9
+8312/3;814-838;Nierenzellkarzinom o.n.A.C64.9;NierenzelladenokarzinomC64.9;;
+8313/0;814-838;Klarzelliges AdenofibromC56.9;Klarzelliges ZystadenofibromC56.9;;
+8313/1;814-838;Klarzelliger Borderline-TumorC56.9;Atypisch proliferierender klarzelliger TumorC56.9;;
+8313/3;814-838;Klarzelliges AdenokarzinofibromC56.9;Klarzelliges ZystadenokarzinofibromC56.9;;
+8314/3;814-838;Lipidreiches KarzinomC50.-;;;C50
+8315/3;814-838;Glykogenreiches Karzinom;Glykogenreiches klarzelliges KarzinomC64.9;;
+8316/1;814-838;Multilokuläre zystische Neoplasie der Niere mit niedrigem Malignitätspotential;;;
+8316/3;814-838;Zystenassoziiertes NierenzellkarzinomC64.9;Erworbene zystische Nierenkrankheit mit assoziiertem NierenzellkarzinomC64.9;;
+8317/3;814-838;Nierenzellkarzinom vom chromophoben ZelltypC64.9;Chromophobes NierenzellkarzinomC64.9;;
+8318/3;814-838;Sarkomatoides NierenzellkarzinomC64.9;Spindelzelliges NierenzellkarzinomC64.9;;
+8319/3;814-838;SammelrohrkarzinomC64.9;Bellini-Duct-KarzinomC64.9;;
+8320/3;814-838;Granularzellkarzinom;Granularzelladenokarzinom;;
+8321/0;814-838;HauptzelladenomC75.0;;;
+8322/0;814-838;Wasserklares AdenomC75.0;;;
+8322/3;814-838;Wasserklares AdenokarzinomC75.0;Wasserklares KarzinomC75.0;;
+8323/0;814-838;Gemischtzelliges Adenom;;;
+8323/1;814-838;Klarzelliges papilläres NierenzellkarzinomC64.9;;;C64.9
+8323/3;814-838;Gemischtzelliges Adenokarzinom;;;
+8324/0;814-838;Lipoadenom;Adenolipom;;
+8325/0;814-838;Nachnieren-AdenomC64.9;;;
+8330/0;814-838;Follikuläres Adenom o.n.A.C73.9;;;
+8330/1;814-838;Atypisches follikuläres AdenomC73.9;;;
+8330/3;814-838;Follikuläres Karzinom o.n.A.C73.9;Follikuläres Adenokarzinom o.n.A.C73.9;;
+8331/3;814-838;Gut differenziertes follikuläres AdenokarzinomC73.9;Gut differenziertes follikuläres KarzinomC73.9;;
+8332/3;814-838;Trabekuläres follikuläres AdenokarzinomC73.9;Trabekuläres follikuläres KarzinomC73.9;;
+8333/0;814-838;Mikrofollikuläres AdenomC73.9;Fetales AdenomC73.9;;
+8333/3;814-838;Fetales Adenokarzinom;;;
+8334/0;814-838;Makrofollikuläres AdenomC73.9;KolloidadenomC73.9;;
+8335/1;814-838;Follikulärer Tumor mit unsicherem MalignitätspotentialC73.9;Abgekapseltes follikuläres Karzinom o.n.A.C73.9;;C73.9
+8335/3;814-838;Minimal-invasives follikuläres KarzinomC73.9;;;
+8336/1;814-838;Hyalinisierender trabekulärer TumorC73.9;Hyalinisierendes trabekuläres AdenomC73.9;;C73.9
+8337/3;814-838;Schlecht differenziertes SchilddrüsenkarzinomC73.9;Insuläres KarzinomC73.9;;
+8339/3;814-838;Angio-invasives; verkapseltes follikuläres KarzinomC73.9;;
+8340/3;814-838;Papilläres Karzinom; follikuläre VarianteC73.9;Papilläres Adenokarzinom; follikuläre VarianteC73.9
+8341/3;814-838;Papilläres MikrokarzinomC73.9;;;
+8342/3;814-838;Papilläres Karzinom; onkozytische VarianteC73.9;Oxyphiles papilläres KarzinomC73.9;
+8343/3;814-838;Abgekapseltes papilläres KarzinomC73.9;;;
+8344/3;814-838;Zylinderzelliges papilläres SchilddrüsenkarzinomC73.9;Großzelliges papilläres SchilddrüsenkarzinomC73.9Tall cell papillary carcinomaC73.9;;
+8345/3;814-838;Medulläres SchilddrüsenkarzinomC73.9;C-Zell-KarzinomC73.9;;
+8346/3;814-838;Gemischtzelliges medullär-follikuläres KarzinomC73.9;;;
+8347/3;814-838;Medulläres Karzinom mit papillärer KomponenteC73.9;;;
+8348/1;814-838;Gut differenzierter Tumor mit unsicherem MalignitätspotentialC73.9;;;C73.9
+8349/1;814-838;Nicht-invasive follikuläre Schilddrüsenneoplasie mit Kernmerkmalen eines papillären Tumors (NIFTP)C73.9;;;C73.9
+8350/3;814-838;Nichtabgekapseltes sklerosierendes KarzinomC73.9;Nichtabgekapselter sklerosierender TumorC73.9;;
+8360/1;814-838;Multiple endokrine Adenome;Endokrine Adenomatose;;
+8361/0;814-838;Juxtaglomerulärer TumorC64.9;ReninomC64.9;;
+8370/0;814-838;Nebennierenrindenadenom o.n.A.C74.0;Benigner NebennierenrindentumorC74.0;;
+8370/3;814-838;NebennierenrindenkarzinomC74.0;Maligner NebennierenrindentumorC74.0;;
+8371/0;814-838;Nebennierenrindenadenom vom KompaktzelltypC74.0;;;
+8372/0;814-838;Stark pigmentiertes NebennierenrindenadenomC74.0;Pigmentiertes AdenomC74.0;;
+8373/0;814-838;Klarzelliges NebennierenrindenadenomC74.0;;;
+8374/0;814-838;Glomerulosazelliges NebennierenrindenadenomC74.0;;;
+8375/0;814-838;Gemischtzelliges NebennierenrindenadenomC74.0;;;
+8380/0;814-838;Endometrioides Adenom o.n.A.;Endometrioides Zystadenom o.n.A.;;
+8380/1;814-838;Endometrioides Adenom mit Borderline-Malignität;Atypischer proliferativer endometrioider Tumor;;
+8380/2;814-838;Endometrioide intraepitheliale NeoplasieC54.1;Atypische Hyperplasie des EndometriumsC54.1;;C54.1
+8380/3;814-838;Endometrioides Adenokarzinom o.n.A.;Endometrioides Karzinom o.n.A.;;
+8381/0;814-838;Endometrioides Adenofibrom o.n.A.;Endometrioides Zystadenofibrom o.n.A.;;
+8381/1;814-838;Endometrioides Adenofibrom mit Borderline-Malignität;Endometrioides Zystadenofibrom mit Borderline-Malignität;;
+8381/3;814-838;Malignes endometrioides Adenofibrom;Malignes endometrioides Zystadenofibrom;;
+8382/3;814-838;Endometrioides Adenokarzinom; sekretorische Variante;;
+8383/3;814-838;Endometrioides Adenokarzinom; Flimmerepithel-Variante;;
+8384/3;814-838;Endozervikales Adenokarzinom;;;
+8390/0;839-842;Adenom der HautanhangsgebildeC44.-;Benigner AdnextumorC44.-;;C44
+8390/3;839-842;Adenokarzinom der Hautanhangsgebilde o.n.A.C44.-;AdnexkarzinomC44.-;;C44
+8391/0;839-842;Follikuläres FibromC44.-;FibrofollikulomC44.-;;C44
+8392/0;839-842;SyringofibroadenomC44.-;;;C44
+8400/0;839-842;SchweißdrüsenadenomC44.-;Benigner SchweißdrüsentumorC44.-;;C44
+8400/1;839-842;Schweißdrüsentumor o.n.A.C44.-;;;C44
+8400/3;839-842;SchweißdrüsenadenokarzinomC44.-;Maligner SchweißdrüsentumorC44.-;;C44
+8401/0;839-842;Apokrines Adenom;Apokrines Zystadenom;;
+8401/3;839-842;Apokrines Adenokarzinom;Apokrines Karzinom;;
+8402/0;839-842;Hidradenom o.n.A.C44.-;Noduläres HidradenomC44.-;;C44
+8402/3;839-842;Malignes noduläres HidradenomC44.-;HidradenokarzinomC44.-;;C44
+8403/0;839-842;Spiradenom o.n.A.C44.-;Ekkrines Spiradenom o.n.A.C44.-;;C44
+8403/3;839-842;Malignes ekkrines SpiradenomC44.-;Bösartige Neubildung in vorbestehendem Spiradenom;;C44
+8404/0;839-842;HidrozystomC44.-;Ekkrines ZystadenomC44.-;;C44
+8405/0;839-842;Papilläres Hidradenom;Hidroadenoma papilliferum;;
+8406/0;839-842;Syringocystadenoma papilliferum (SCAP)C44.-;Papilläres SyringadenomC44.-;;C44
+8406/3;839-842;Syringocystadenocarcinoma papilliferum;;;
+8407/0;839-842;Syringom o.n.A.C44.-;Syringomatöser Tumor der BrustwarzeC50.0Infiltrierendes syringomatöses Adenom der BrustwarzeC50.0;;C44
+8407/3;839-842;Mikrozystisches Karzinom der HautadnexeC44.-;Sklerosierendes Karzinom der SchweißdrüsenausführungsgängeC44.-;;C44
+8408/0;839-842;Ekkrines papilläres AdenomC44.-;;;C44
+8408/3;839-842;Digitales papilläres AdenokarzinomC44.-;Aggressives digitales papilläres AdenomC44.-;;C44
+8409/0;839-842;Porom o.n.A.C44.-;Apokrines Porom;;C44
+8409/2;839-842;Porocarcinoma in situ;;;
+8409/3;839-842;Porokarzinom o.n.A.C44.-;Malignes ekkrines PoromC44.-;;C44
+8410/0;839-842;SebazeomC44.-;Epithelioma sebaceumC44.-;;C44
+8410/3;839-842;TalgdrüsenkarzinomC44.-;TalgdrüsenadenokarzinomC44.-;;C44
+8413/3;839-842;Ekkrines AdenokarzinomC44.-;;;C44
+8420/0;839-842;ZeruminaladenomC44.2;;;
+8420/3;839-842;ZeruminaladenokarzinomC44.2;ZeruminalkarzinomC44.2;;
+8430/1;843-843;Mukoepidermoidtumor;;;
+8430/3;843-843;Mukoepidermoid-Karzinom;;;
+8440/0;844-849;Zystadenom o.n.A;Zystom o.n.A.;;
+8440/3;844-849;Zystadenokarzinom o.n.A.;;;
+8441/0;844-849;Seröses Zystadenom o.n.A.;Seröses Zystom;;
+8441/2;844-849;Seröses intraepitheliales Karzinom;Seröses intraepitheliales Karzinom des EndometriumsC54.1;;
+8441/3;844-849;Seröses Karzinom o.n.A.;Seröses Adenokarzinom o.n.A.;;
+8442/1;844-849;Seröser Borderline-Tumor o.n.A.C56.9;Atypisch proliferierender seröser TumorC56.9;;
+8443/0;844-849;Klarzelliges ZystadenomC56.9;;;
+8450/0;844-849;Papilläres Zystadenom o.n.A.C56.9;Papilläres Zystadenofibrom;;
+8450/3;844-849;Papilläres Zystadenokarzinom o.n.A.C56.9;Papillär-zystisches Adenokarzinom;;
+8451/1;844-849;Papilläres Zystadenom mit Borderline-MalignitätC56.9;;;
+8452/1;844-849;Solider pseudopapillärer OvarialtumorC56.9;Papillär-zystischer TumorC25.-;;C56.9
+8452/3;844-849;Solide pseudopapilläre Neoplasie des PankreasC25.-;Solid-pseudopapilläres Karzinom;;C25
+8453/0;844-849;Intraduktales papillär-muzinöses AdenomC25.-;Intraduktaler papillär-muzinöser Tumor mit niedriggradiger DysplasieC25.-Intraduktale papillär-muzinöse Neoplasie mit niedriggradiger DysplasieC25.-;;C25
+8453/2;844-849;Intraduktale papillär-muzinöse Neoplasie mit hochgradiger DysplasieC25.-;Nichtinvasives intraduktales papillär-muzinöses KarzinomC25.-;;C25
+8453/3;844-849;Intraduktale papillär-muzinöse Neoplasie assoziiert mit invasivem KarzinomC25.-;Invasives intraduktales papillär-muzinöses AdenokarzinomC25.-;;C25
+8454/0;844-849;Zystischer Tumor des atrioventrikulären KnotensC38.0;;;
+8460/2;844-849;Seröser Borderline-Tumor; mikropapilläre VarianteC56.9;Nichtinvasives seröses Karzinom; niedriggradigC56.9
+8460/3;844-849;Niedriggradiges seröses KarzinomC56.9;Seröses mikropapilläres KarzinomC56.9;;
+8461/0;844-849;Seröses Oberflächenpapillom o.n.A.C56.9;;;
+8461/3;844-849;Hochgradiges seröses KarzinomC56.9;;;
+8470/0;844-849;Muzinöses Zystadenom o.n.A.C56.9;Muzinöses ZystomC56.9;;
+8470/2;844-849;Muzinöse zystische Neoplasie mit hochgradiger DysplasieC25.-;Muzinöser zystischer Tumor mit hochgradiger DysplasieC25.-Muzinöse zystische Neoplasie mit hochgradiger intraepithelialer NeoplasieC22.-;;C25
+8470/3;844-849;Muzinöses Zystadenokarzinom o.n.A.C56.9;Pseudomuzinöses AdenokarzinomC56.9;;
+8472/1;844-849;Muzinöser zystischer Tumor mit Borderline-MalignitätC56.9;Atypisch proliferierender muzinöser TumorC56.9;;
+8474/0;844-849;Seromuzinöses Zystadenom;;;
+8474/1;844-849;Seromuzinöser Borderline-Tumor;Atypisch proliferierender seromuzinöser Tumor;;
+8474/3;844-849;Seromuzinöses KarzinomC56.9;;;C56.9
+8480/0;844-849;Muzinöses Adenom;Adenom der Schleimdrüse;;
+8480/1;844-849;Niedriggradige muzinöse Neoplasie der AppendixC18.1;;;
+8480/3;844-849;Muzinöses Adenokarzinom;Carcinoma gelatinosum;;
+8480/6;844-849;Pseudomyxoma peritonei;;;
+8481/3;844-849;Schleimbildendes Adenokarzinom;Schleimbildendes Karzinom;;
+8482/3;844-849;Muzinöses Adenokarzinom vom gastrischen Typ;Endozervikales muzinöses AdenokarzinomC53.-;;
+8490/3;844-849;Siegelringzellkarzinom;Azinäres Adenokarzinom; Siegelring-ähnliche Variante;
+8490/6;844-849;Metastase eines Siegelringzellkarzinomes;Krukenberg-Tumor;;
+8500/2;850-854;Nichtinfiltrierendes intraduktales Karzinom o.n.A.;Intraduktales Karzinom o.n.A.;;
+8500/3;850-854;Invasives duktales Karzinom o.n.A.C50.-;Duktales Adenokarzinom o.n.A.;;C50
+8501/2;850-854;Nichtinvasives KomedokarzinomC50.-;DCIS vom Komedo-TypC50.-;;C50
+8501/3;850-854;Komedokarzinom o.n.A.C50.-;;;C50
+8502/3;850-854;Sekretorisches MammakarzinomC50.-;Juveniles MammakarzinomC50.-;;C50
+8503/0;850-854;Intraduktales Papillom;Duktales Papillom;;
+8503/2;850-854;Nichtinvasives intraduktales papilläres AdenokarzinomC50.-;Duktales papilläres Carcinoma in situC50.-;;C50
+8503/3;850-854;Intraduktales papilläres Adenokarzinom mit InvasionC50.-;Invasives papilläres Adenokarzinom;;C50
+8504/0;850-854;Intrazystisches papilläres Adenom;Intrazystisches Papillom;;
+8504/2;850-854;Abgekapseltes papilläres Karzinom;Eingekapseltes papilläres Karzinom;;
+8504/3;850-854;Abgekapseltes papilläres Karzinom mit Invasion;Eingekapseltes papilläres Karzinom mit Invasion;;
+8505/0;850-854;Intraduktale Papillomatose o.n.A.;Diffuse intraduktale Papillomatose;;
+8506/0;850-854;Brustwarzen-AdenomC50.0;Subareoläre Milchgangs-PapillomatoseC50.0;;
+8507/2;850-854;Intraduktales mikropapilläres KarzinomC50.-;Mikropapilläres duktales Carcinoma in situC50.-;;C50
+8507/3;850-854;Invasives mikropapilläres MammakarzinomC50.-;Mikropapilläres MammakarzinomC50.-;;C50
+8508/3;850-854;Zystisch-hypersekretorisches KarzinomC50.-;;;C50
+8509/2;850-854;Solides papilläres Carcinoma in situC50.-;Endokrines muzin-produzierendes Carcinoma in situ der SchweißdrüseC44.-;;C50
+8509/3;850-854;Solides papilläres Karzinom mit InvasionC50.-;Endokrines muzin-produzierendes SchweißdrüsenkarzinomC44.-;;C50
+8510/3;850-854;Medulläres Karzinom o.n.A.;Medullär-ähnliches Karzinom;;
+8512/3;850-854;Medulläres Karzinom mit lymphoidem Stroma;;;
+8513/3;850-854;Atypisches medulläres KarzinomC50.-;;;C50
+8514/3;850-854;Desmoplastisches duktales Karzinom;;;
+8519/2;850-854;Pleomorphes lobuläres Carcinoma in situC50.-;Pleomorphes LCISC50.-;;C50
+8520/2;850-854;Lobuläres Carcinoma in situ o.n.A.C50.-;LCIS o.n.A.C50.-;;C50
+8520/3;850-854;Lobuläres Karzinom o.n.A.C50.-;Invasives lobuläres Karzinom o.n.A.C50.-;;C50
+8521/3;850-854;Invasives duktuläres Karzinom;;;
+8522/2;850-854;Intraduktales Karzinom und lobuläres Carcinoma in situC50.-;;;C50
+8522/3;850-854;Invasives duktales und lobuläres KarzinomC50.-;Lobuläres und duktales KarzinomC50.-;;C50
+8523/3;850-854;Invasives duktales Karzinom gemischt mit anderen Karzinom-TypenC50.-;Invasives duktales und KolloidkarzinomC50.-;;C50
+8524/3;850-854;Invasives lobuläres Karzinom gemischt mit anderen Karzinom-TypenC50.-;;;C50
+8525/3;850-854;Polymorphes Adenokarzinom;Polymorphes Karzinom;;
+8530/3;850-854;Inflammatorisches KarzinomC50.-;Entzündliches AdenokarzinomC50.-;;C50
+8540/3;850-854;M. Paget der BrustC50.-;M. Paget der BrustwarzeC50.0;;C50
+8541/3;850-854;M. Paget mit invasivem duktalem KarzinomC50.-;;;C50
+8542/3;850-854;Extramammärer M. Paget (Exkl./ M. Paget des Knochens);;;
+8543/3;850-854;M. Paget mit intraduktalem KarzinomC50.-;;;C50
+8550/0;855-855;Azinarzelladenom;Azinuszelladenom;;
+8550/1;855-855;Azinarzelltumor;Azinuszelltumor;;
+8550/3;855-855;Azinuszellkarzinom;Azinäres Adenokarzinom;;
+8551/3;855-855;Azinuszell-Zystadenokarzinom;Azinäres Adenokarzinom der LungeC34.-;;
+8552/3;855-855;Gemischtes azinär-duktales Karzinom;;;
+8560/0;856-857;Gemischtes squamös-glanduläres Papillom;Tubulo-squamöser Polyp;;
+8560/3;856-857;Adenosquamöses Karzinom;Adenokarzinomatös-epidermoider Tumor;;
+8561/0;856-857;AdenolymphomC07.-C08.-;Papilläres lymphomatöses ZystadenomC07.-C08.-;;C07
+8562/3;856-857;Epithelial-myoepitheliales Karzinom;;;
+8563/0;856-857;Lymphadenom;;;
+8570/3;856-857;Adenokarzinom mit Plattenepithelmetaplasie;Adenoakanthom;;
+8571/3;856-857;Adenokarzinom mit Knorpel- und Knochenmetaplasie;Adenokarzinom mit chondroider Differenzierung;;
+8572/3;856-857;Adenokarzinom mit Spindelzellmetaplasie;Azinäres Adenokarzinom; sarkomatoide Variante;
+8573/3;856-857;Adenokarzinom mit apokriner Metaplasie;Karzinom mit apokriner Metaplasie;;
+8574/3;856-857;Adenokarzinom mit neuroendokriner Differenzierung;Adenokarzinom gemischt mit neuroendokrinem Karzinom;;
+8575/3;856-857;Metaplastisches Karzinom o.n.A.;;;
+8576/3;856-857;Hepatoides Adenokarzinom;Hepatoides Karzinom;;
+8580/0;858-858;Mikroskopisches ThymomC37.9;Benignes ThymomC37.9;;
+8580/1;858-858;Mikronoduläres Thymom mit lymphoidem StromaC37.9;;;
+8580/3;858-858;Thymom o.n.A.C37.9;Intrapulmonales ThymomC34.-;;
+8581/3;858-858;Thymom vom Typ AC37.9;Medulläres ThymomC37.9;;
+8582/3;858-858;Thymom vom Typ ABC37.9;Thymom vom MischtypC37.9;;
+8583/3;858-858;Thymom vom Typ B1C37.9;Lymphozytenreiches ThymomC37.9;;
+8584/3;858-858;Thymom vom Typ B2C37.9;Kortikales ThymomC37.9;;
+8585/3;858-858;Thymom vom Typ B3C37.9;Atypisches ThymomC37.9;;
+8586/3;858-858;Thymuskarzinom o.n.A.C37.9;Thymom vom Typ CC37.9;;
+8587/0;858-858;Ektope hamartomatöse Thymome;;;
+8588/3;858-858;Spindelzellig-epithelialer Tumor mit thymusähnlichen Anteilen;Spindelzellig-epithelialer Tumor mit thymusähnlicher Differenzierung;;
+8589/3;858-858;Intrathyroidales ThymuskarzinomC73.9;Carcinoma showing thymus-like elementCASTLE;;C73.9
+8590/0;859-867;Benigner Keimstrang-Stromatumor;Mikrozystischer Stromatumor;;
+8590/1;859-867;Keimstrang-Stromatumor o.n.A.;Gonaden-Stromatumor o.n.A.;;
+8591/1;859-867;Inkomplett differenzierter Keimstrang-Stromatumor;Keimstrangtumor; nicht klassifiziert;
+8592/1;859-867;Keimstrang-Stromatumor; Mischtypen;;
+8593/1;859-867;Stromatumor mit geringeren KeimstranganteilenC56.9;;;
+8594/1;859-867;Gemischter Keimzell-Keimstrang-Stromatumor o.n.A.;Unklassifizierter gemischter Keimzell-Keimstrang-Stromatumor;;
+8600/0;859-867;Thekom o.n.A.C56.9;ThekazelltumorC56.9;;
+8600/3;859-867;Malignes ThekomC56.9;;;
+8601/0;859-867;Luteinisiertes ThekomC56.9;;;
+8602/0;859-867;Sklerosierender StromatumorC56.9;;;
+8610/0;859-867;Luteom o.n.A.C56.9;LuteinomC56.9;;
+8620/1;859-867;Adulter Granulosazelltumor der HodenC62.-;Granulosazelltumor der Hoden o.n.A.C62.-;;C62
+8620/3;859-867;Maligner Granulosazelltumor des OvarsC56.9;Adulter GranulosazelltumorC56.9;;
+8621/1;859-867;Granulosa-ThekazelltumorC56.9;Theka-GranulosazelltumorC56.9;;
+8622/0;859-867;Juveniler Granulosazelltumor der HodenC62.-;;;C62
+8622/1;859-867;Juveniler GranulosazelltumorC56.9(Exkl./ Hoden 8622/0);;;
+8623/1;859-867;Keimstrangtumor mit anulären TubuliC56.9;;;
+8630/0;859-867;Benignes Androblastom;Benignes Arrhenoblastom;;
+8630/1;859-867;Androblastom o.n.A.;Arrhenoblastom o.n.A.;;
+8630/3;859-867;Malignes Androblastom;Malignes Arrhenoblastom;;
+8631/0;859-867;Gut differenzierter Sertoli-Leydig-Zell-Tumor;;;
+8631/1;859-867;Intermediär differenzierter Sertoli-Leydig-Zell-Tumor;Mäßig differenzierter Sertoli-Leydig-Zell-Tumor;;
+8631/3;859-867;Schlecht differenzierter Sertoli-Leydig-Zell-Tumor;Sarkomatoider Sertoli-Leydig-Zell-Tumor;;
+8632/1;859-867;GynandroblastomC56.9;;;
+8633/1;859-867;Retiformer Sertoli-Leydig-Zell-Tumor;;;
+8634/1;859-867;Intermediär differenzierter Sertoli-Leydig-Zell-Tumor mit heterologen Elementen;Mäßig differenzierter Sertoli-Leydig-Zell-Tumor mit heterologen Elementen;;
+8634/3;859-867;Schlecht differenzierter Sertoli-Leydig-Zell-Tumor mit heterologen Elementen;;;
+8640/1;859-867;Sertoli-Zell-Tumor o.n.A.;Hodenadenom;;
+8640/3;859-867;Sertoli-Zell-KarzinomC62.-;;;C62
+8641/0;859-867;Lipidspeichernder Sertoli-Zell-Tumor;Lipidfollikulom [Lecne]C56.9;;
+8642/1;859-867;Großzelliger verkalkender Sertoli-Zell-Tumor;;;
+8643/1;859-867;Intratubuläre großzellige hyalinisierende Sertoli-Zell-Neoplasie;;;
+8650/0;859-867;Leydig-Zell-Tumor des Ovars o.n.A.C56.9;;;C56.9
+8650/1;859-867;Leydig-Zell-Tumor der Hoden o.n.A.C62.-;Zwischenzelltumor o.n.A.;;C62
+8650/3;859-867;Maligner Leydig-Zell-TumorC62.-;Maligner Zwischenzelltumor;;C62
+8660/0;859-867;HiluszelltumorC56.9;Leydig-Zell-Tumor vom HilustypC56.9;;
+8670/0;859-867;Lipidzelliger OvarialtumorC56.9;Lipoidzelliger OvarialtumorC56.9;;
+8670/3;859-867;Maligner Steroidzelltumor;;;
+8671/0;859-867;Nebennierenresttumor;;;
+8680/3;868-871;Paragangliom o.n.A.C75.5;;;C75.5
+8681/3;868-871;Sympathisches Paragangliom;;;
+8682/3;868-871;Parasympathisches Paragangliom;;;
+8683/0;868-871;Ganglienzell-ParagangliomC17.0;;;
+8690/3;868-871;Paragangliom des MittelohrsC75.5;Glomus-jugulare-Tumor o.n.A.C75.5;;C75.5
+8691/3;868-871;Glomus-aorticum-Tumor;Aortopulmonales ParagangliomC75.5;;
+8692/3;868-871;Paragangliom des Glomus caroticumC75.4;Glomus-caroticum-TumorC75.4;;C75.4
+8693/3;868-871;Extraadrenales Paragangliom o.n.A.;Chemodektom;;
+8700/3;868-871;Phäochromozytom o.n.A.C74.1;Chromaffiner Tumor;;
+8710/3;868-871;Glomangiosarkom;Glomoid-Sarkom;;
+8711/0;868-871;Glomustumor o.n.A.;;;
+8711/1;868-871;Glomangiomatose;Glomustumor mit unsicherem malignem Potential;;
+8711/3;868-871;Maligner Glomustumor;;;
+8712/0;868-871;Glomangiom;;;
+8713/0;868-871;Glomangiomyom;;;
+8714/0;868-871;Benigner perivaskulärer Epitheloidtumor;Benignes PECom;;
+8714/3;868-871;Maligner perivaskulärer Epitheloidtumor;Malignes PECom;;
+8720/0;872-879;Pigmentierter Nävus o.n.A.C44.-;Melanozytennävus o.n.A.C44.-;;C44
+8720/2;872-879;Melanoma in situ;;;
+8720/3;872-879;Malignes Melanom o.n.A. (Exkl./ Juveniles Melanom8770/0);Melanom o.n.A;;8770/0
+8721/3;872-879;Noduläres malignes Melanom (NM)C44.-;;;C44
+8722/0;872-879;BallonzellnävusC44.-;;;C44
+8722/3;872-879;BallonzellmelanomC44.-;;;C44
+8723/0;872-879;HalonävusC44.-;Regressiver NävusC44.-;;C44
+8723/3;872-879;Malignes Melanom in RegressionC44.-;;;C44
+8725/0;872-879;NeuronävusC44.-;;;C44
+8726/0;872-879;Großzelliger NävusC69.4;Melanozytom des AugapfelsC69.4;;
+8727/0;872-879;Dysplastischer NävusC44.-;;;C44
+8728/0;872-879;Meningeale MelanozytoseC70.9;Diffuse MelanozytoseC70.9;;
+8728/1;872-879;Meningeales MelanozytomC70.9;;;
+8728/3;872-879;Meningeale MelanomatoseC70.9;;;
+8730/0;872-879;Nichtpigmentierter NävusC44.-;Achromer NävusC44.-;;C44
+8730/3;872-879;Amelanotisches malignes MelanomC44.-;;;C44
+8740/0;872-879;Junktionaler Nävus o.n.A.C44.-;Intraepidermaler NävusC44.-;;C44
+8740/3;872-879;Malignes Melanom in Junktions-NävusC44.-;;;C44
+8741/2;872-879;Prämaligne Melanose o.n.A.C44.-;;;C44
+8741/3;872-879;Malignes Melanom in prämaligner MelanoseC44.-;;;C44
+8742/0;872-879;Lentiginöser melanozytischer NävusC44.-;Einfache LentigoC44.-Lentigo simplexC44.-;;C44
+8742/2;872-879;Lentigo malignaC44.-;Hutchinson-Pigmentfleck o.n.A.C44.-;;C44
+8742/3;872-879;Lentigo-maligna-MelanomC44.-;LMM;;C44
+8743/3;872-879;Melanom nach geringem kumulativem SonnenschadenC44.-;Oberflächlich spreitendes MelanomC44.-Superficial spreading melanomaSSM;;C44
+8744/0;872-879;Akraler NävusC44.-;;;C44
+8744/3;872-879;Akrales MelanomC44.-;Akral-lentiginöses malignes MelanomC44.-;;C44
+8745/3;872-879;Desmoplastisches Melanom o.n.A.C44.-;Desmoplastisches amelanotisches MelanomC44.-;;C44
+8746/3;872-879;Mukosal-lentiginöses Melanom;;;
+8750/0;872-879;Dermaler NävusC44.-;Intradermaler NävusC44.-;;C44
+8760/0;872-879;Compound-NävusC44.-;Dermaler und epidermaler NävusC44.-;;C44
+8761/0;872-879;Kongenitaler melanozytischer Nävus o.n.A.C44.-;;;C44
+8761/1;872-879;Pigmentierter Riesennävus o.n.A.C44.-;Mittelgroßer- und RiesennävusC44.-;;C44
+8761/3;872-879;Malignes Melanom in kongenitalem MelanozytennävusC44.-;Malignes Melanom in pigmentiertem RiesennävusC44.-;;C44
+8762/1;872-879;Proliferative dermale Läsion in kongenitalem NävusC44.-;Proliferativer Knoten in kongenitalem NävusC44.-;;C44
+8770/0;872-879;Epitheloid- und SpindelzellnävusC44.-;Juveniler NävusC44.-;;C44
+8770/3;872-879;Maligner Spitz-TumorC44.-;Gemischtes Epitheloid- und SpindelzellmelanomSpitz-MelanomC44.-;;C44
+8771/0;872-879;EpitheloidzellnävusC44.-;;;C44
+8771/3;872-879;Epitheloidzellmelanom;;;
+8772/0;872-879;Spindelzellnävus o.n.A.C44.-;;;C44
+8772/3;872-879;Spindelzellmelanom o.n.A.;;;
+8773/3;872-879;Spindelzellmelanom Typ AC69.-;;;C69
+8774/3;872-879;Spindelzellmelanom Typ BC69.-;;;C69
+8780/0;872-879;Blauer Nävus o.n.A.C44.-;Blauer Nävus (Jadassohn)C44.-;;C44
+8780/1;872-879;Pigmentiertes epitheloides MelanozytomC44.-;Epitheloider blauer NävusC44.-;;C44
+8780/3;872-879;Maligner blauer NävusC44.-;Melanom in blauem NävusC44.-;;C44
+8790/0;872-879;Zellreicher blauer NävusC44.-;;;C44
+8800/0;880-880;Benigner Weichteiltumor;;;
+8800/3;880-880;Sarkom o.n.A.;Maligner Weichteiltumor;;
+8800/9;880-880;Sarkomatose o.n.A.;;;
+8801/3;880-880;Spindelzellsarkom;Undifferenziertes Spindelzellsarkom;;
+8802/1;880-880;Pleomorpher hyalinisierender angiektatischer Tumor;;;
+8802/3;880-880;Riesenzellsarkom (Exkl./ Riesenzellsarkom des Knochens9250/3);Pleomorphes Sarkom;;9250/3
+8803/3;880-880;Kleinzelliges Sarkom;Rundzellsarkom;;
+8804/3;880-880;Epitheloidsarkom;Epitheloidzelliges Sarkom;;
+8805/3;880-880;Undifferenziertes Sarkom;;;
+8806/3;880-880;Desmoplastischer kleinzelliger Tumor;;;
+8810/0;881-883;Fibrom o.n.A. (Exkl./ Sehnenscheide8813/0);Desmoplastiches Fibroblastom;;8813/0
+8810/1;881-883;Zellreiches FibromC56.9;;;
+8810/3;881-883;Fibrosarkom o.n.A.;;;
+8811/0;881-883;Fibromyxom o.n.A.;Myxofibrom o.n.A.;;
+8811/1;881-883;Myxoinflammatorisches fibroblastisches Sarkom;Atypischer myxoinflammatorischer fibroblastischer Tumor;;
+8811/3;881-883;Myxofibrosarkom;Fibromyxosarkom;;
+8812/0;881-883;Periostales FibromC40.-C41.-;;;C40
+8812/3;881-883;Periostales FibrosarkomC40.-C41.-;Periostales Sarkom o.n.A.C40.-C41.-;;C40
+8813/0;881-883;Fibrom der Sehnenscheide;Faszienfibrom;;
+8813/1;881-883;Fibromatose vom palmaren/plantaren Typ;Oberflächliche Fibromatose;;
+8813/3;881-883;Faszienfibrosarkom;;;
+8814/3;881-883;Infantiles Fibrosarkom;Kongenitales Fibrosarkom;;
+8815/0;881-883;Solitärer fibröser Tumor/Hämangioperizytom; Grad 1;Benignes Hämangioperizytom;
+8815/1;881-883;Solitärer fibröser Tumor o.n.A.;Hämangioperizytom o.n.A.;;
+8815/3;881-883;Maligner solitärer fibröser Tumor;Solitärer fibröser Tumor/Hämangioperizytom; Grad 3;
+8816/0;881-883;Kalzifizierendes aponeurotisches Fibrom;;;
+8817/0;881-883;Kalzifizierender fibröser Tumor;;;
+8818/0;881-883;Fibröse Dysplasie;;;
+8820/0;881-883;Elastofibrom;;;
+8821/1;881-883;Aggressive Fibromatose;Desmoid o.n.A.;;
+8822/1;881-883;Abdominale Fibromatose;Abdominaler Desmoidtumor;;
+8823/0;881-883;Sklerotisches Fibrom;;;
+8823/1;881-883;Desmoplastisches Fibrom;;;
+8824/0;881-883;Myofibrom;Dermatomyofibrom;;
+8824/1;881-883;Myofibromatose;Kongenitale generalisierte FibromatoseInfantile Myofibromatose;;
+8825/0;881-883;Myofibroblastom;;;
+8825/1;881-883;Myofibroblastentumor o.n.A.;Entzündlicher Myofibroblastentumor;;
+8825/3;881-883;Myofibroblastisches Sarkom;;;
+8826/0;881-883;Angiomyofibroblastom;;;
+8827/1;881-883;Peribronchialer MyofibroblastentumorC34.-;Kongenitaler peribronchialer MyofibroblastentumorC34.-;;C34
+8828/0;881-883;Noduläre Fasziitis;Proliferative Fasziitis;;
+8830/0;881-883;Fibröses Histiozytom;Fibröses Histiozytom o.n.A. (Exkl./ Sehnenscheide9252/0);;
+8830/1;881-883;Atypisches fibröses Histiozytom;Atypisches Fibroxanthom;;
+8830/3;881-883;Malignes fibröses Histiozytom;Malignes Fibroxanthom;;
+8831/0;881-883;Histiozytom o.n.A.;Juveniles Histiozytom;;
+8832/0;881-883;Dermatofibrom o.n.A.C44.-;Dermatofibroma lenticulareC44.-;;C44
+8832/1;881-883;Dermatofibrosarcoma protuberans o.n.A.C44.-;Dermatofibrosarkom o.n.A.C44.-;;C44
+8832/3;881-883;Fibrosarkomatöses Dermatofibrosarcoma protuberansC44.-;Sarkomatöses DermatofibrosarkomC44.-;;C44
+8833/1;881-883;Pigmentiertes Dermatofibrosarcoma protuberansC44.-;Bednar-TumorC44.-;;C44
+8834/1;881-883;Riesenzellfibroblastom;;;
+8835/1;881-883;Plexiformer fibrohistiozytärer Tumor;;;
+8836/1;881-883;Angiomatoides fibröses Histiozytom;;;
+8840/0;884-884;Myxom o.n.A.;;;
+8840/3;884-884;Myxosarkom;Niedriggradiges fibromyxoides Sarkom;;
+8841/0;884-884;Angiomyxom o.n.A.;Aggressives Angiomyxom;;
+8842/0;884-884;Ossifizierender fibromyxoider Weichteiltumor o.n.A.;;;
+8842/3;884-884;Maligner ossifizierender fibromyxoider Weichteiltumor;Pulmonales myxoides Sarkom mit EWSR1-CREB1-TranslokationC34.-;;
+8850/0;885-888;Lipom o.n.A.;TymuslipomC37.9;;
+8850/1;885-888;Atypischer lipomatöser Tumor;Atypisches Lipom;;
+8850/3;885-888;Liposarkom o.n.A.;Fibroliposarkom;;
+8851/0;885-888;Fibrolipom;;;
+8851/1;885-888;Lipofibromatose;;;
+8851/3;885-888;Gut differenziertes Liposarkom o.n.A.;Differenziertes Liposarkom;;
+8852/0;885-888;Fibromyxolipom;Myxolipom;;
+8852/3;885-888;Myxoides Liposarkom;Myxoliposarkom;;
+8853/3;885-888;Rundzelliges Liposarkom (siehe 8852/3);;;8852/3
+8854/0;885-888;Pleomorphes Lipom;;;
+8854/3;885-888;Pleomorphes Liposarkom;;;
+8855/3;885-888;Gemischtzelliges Liposarkom;;;
+8856/0;885-888;Intramuskuläres Lipom;Infiltrierendes Angiolipom;;
+8857/0;885-888;Spindelzell-Lipom;;;
+8857/3;885-888;Fibroblastisches Liposarkom;;;
+8858/3;885-888;Entdifferenziertes Liposarkom;;;
+8860/0;885-888;Angiomyolipom;;;
+8860/1;885-888;Epitheloides Angiomyolipom;;;
+8861/0;885-888;Angiolipom o.n.A.;;;
+8862/0;885-888;Chondroides Lipom;;;
+8870/0;885-888;Myelolipom;;;
+8880/0;885-888;Hibernom;Brauner Fettzelltumor;;
+8881/0;885-888;Lipoblastomatose;Fetale Lipomatose;;
+8890/0;889-892;Leiomyom o.n.A.;Fibroid-UterusC55.9;;
+8890/1;889-892;Leiomyomatose o.n.A.;Disseminierte peritoneale Leiomyomatose;;
+8890/3;889-892;Leiomyosarkom o.n.A.;;;
+8891/0;889-892;Epitheloides Leiomyom;Leiomyoblastom;;
+8891/3;889-892;Epitheloides Leiomyosarkom;;;
+8892/0;889-892;Zellreiches Leiomyom;;;
+8893/0;889-892;Bizarres Leiomyom;Atypisches Leiomyom;;
+8894/0;889-892;Angioleiomyom;Angiomyom;;
+8894/3;889-892;Angiomyosarkom;;;
+8895/0;889-892;Myom;;;
+8895/3;889-892;Myosarkom;;;
+8896/0;889-892;Myxoides Leiomyom;;;
+8896/3;889-892;Myxoides Leiomyosarkom;;;
+8897/1;889-892;Tumor der glatten Muskulatur mit fraglichem malignem Potential;Atypischer Tumor der glatten Muskulatur;;
+8898/1;889-892;Metastasierendes Leiomyom;;;
+8900/0;889-892;Rhabdomyom o.n.A.;;;
+8900/3;889-892;Rhabdomyosarkom o.n.A.;Rhabdosarkom;;
+8901/3;889-892;Adultes pleomorphes Rhabdomyosarkom;Pleomorphes Rhabdomyosarkom o.n.A.;;
+8902/3;889-892;Rhabdomyosarkom vom Mischtyp;Gemischtes embryonales und alveoläres Rhabdomyosarkom;;
+8903/0;889-892;Fetales Rhabdomyom;;;
+8904/0;889-892;Adultes zellreiches Rhabdomyom;Adultes Rhabdomyom;;
+8905/0;889-892;Genitales RhabdomyomC51.-C52.9;;;C51
+8910/3;889-892;Embryonales Rhabdomyosarkom o.n.A.;Rhabdomyosarkom vom embryonalen Typ;;
+8912/3;889-892;Spindelzelliges Rhabdomyosarkom;Rhabdomyosarkom; spindelzell-/sklerosierender Typ;
+8920/3;889-892;Alveoläres Rhabdomyosarkom;;;
+8921/3;889-892;Ektomesenchymom;Rhabdomyosarkom mit ganglionärer Differenzierung;;
+8930/0;893-899;Endometrium-StromaknotenC54.1;;;
+8930/3;893-899;Stromasarkom des Endometriums o.n.A.C54.1;Endometriumsarkom o.n.A.C54.1;;
+8931/3;893-899;Niedrigmalignes Stromasarkom des EndometriumsC54.1;Endolymphatische StromamyoseC54.1;;
+8932/0;893-899;Adenomyom o.n.A.;Atypisches polypoides Adenomyom;;
+8933/3;893-899;Adenosarkom;;;
+8934/3;893-899;Karzinofibrom;;;
+8935/0;893-899;Benigner Stromatumor;;;
+8935/1;893-899;Stromatumor o.n.A.;Metanephritischer StromatumorC64.9;;
+8935/3;893-899;Stromasarkom o.n.A.;;;
+8936/3;893-899;Gastrointestinaler Stromatumor;Gastrointestinales Stromasarkom;;
+8940/0;893-899;Pleomorphes Adenom;Mischtumor o.n.A.;;
+8940/3;893-899;Maligner Mischtumor o.n.A.;Maligner Mischtumor vom SpeicheldrüsentypC07.-C08.-;;
+8941/3;893-899;Karzinom in pleomorphem AdenomC07.-C08.-;;;C07
+8950/3;893-899;Maligner Müller-MischtumorC54.-;;;C54
+8951/3;893-899;Maligner mesodermaler Mischtumor;;;
+8959/0;893-899;Benignes zystisches NephromC64.9;Adultes zystisches NephromC64.9;;
+8959/1;893-899;Zystisches partiell differenziertes NephroblastomC64.9;;;
+8959/3;893-899;Malignes zystisches NephromC64.9;Malignes multilokuläres zystisches NephromC64.9;;
+8960/1;893-899;Mesoblastisches Nephrom;;;
+8960/3;893-899;Nephroblastom o.n.A.C64.9;Nephrom o.n.A.C64.9;;
+8963/3;893-899;Rhabdoidtumor o.n.A.;Maligner Rhabdoidtumor;;
+8964/3;893-899;Klarzelliges NierensarkomC64.9;;;
+8966/0;893-899;Interstitialzellentumor des NierenmarksC64.9;Medulläres FibromC64.9;;
+8967/0;893-899;Ossifizierender NierentumorC64.9;;;
+8970/3;893-899;HepatoblastomC22.0;Embryonales HepatomC22.0;;
+8971/3;893-899;PankreatoblastomC25.-;;;C25
+8972/3;893-899;LungenblastomC34.-;PneumoblastomC34.-;;C34
+8973/3;893-899;Pleuropulmonales Blastom;;;
+8974/1;893-899;Sialoblastom;;;
+8975/1;893-899;Kalzifizierender nestförmiger stromal-epithelialer Tumor (CNEST)C22.0;;;
+8980/3;893-899;Karzinosarkom o.n.A.;;;
+8981/3;893-899;Embryonales Karzinosarkom;;;
+8982/0;893-899;Myoepitheliom o.n.A.;Ektomesenchymaler chondromyxoider Tumor;;
+8982/3;893-899;Myoepitheliales Karzinom;Infiltrierendes Myoepitheliom;;
+8983/0;893-899;Adenomyoepitheliom o.n.A.C50.-;Benignes AdenomyoepitheliomC50.-;;C50
+8983/3;893-899;Adenomyoepitheliom mit KarzinomC50.-;Malignes AdenomyoepitheliomC50.-;;C50
+8990/0;893-899;Benignes Mesenchymom;Gutartiger phosphaturischer mesenchymaler TumorPhosphaturischer mesenchymaler Tumor; o.n.A.;
+8990/1;893-899;Mesenchymom o.n.A.;Mesenchymaler Mischtumor;;
+8990/3;893-899;Malignes Mesenchymom;Maligner gemischtzelliger mesenchymaler Tumor;;
+8991/3;893-899;Embryonales Sarkom;;;
+8992/0;893-899;Pulmonales HamartomC34.-;;;C34
+9000/0;900-903;Brenner-Tumor o.n.A.C56.9;;;
+9000/1;900-903;Brenner-Tumor mit Borderline-MalignitätC56.9;Borderline-Brenner-TumorC56.9;;
+9000/3;900-903;Maligner Brenner-TumorC56.9;;;
+9010/0;900-903;FibroadenomC50.-;Lipofibroadenom;;C50
+9011/0;900-903;Intrakanalikuläres FibroadenomC50.-;;;C50
+9012/0;900-903;Perikanalikuläres FibroadenomC50.-;;;C50
+9013/0;900-903;Adenofibrom o.n.A.;Metanephritisches AdenofibromC64.9Nephrogenes AdenofibromC64.9;;
+9014/0;900-903;Seröses Adenofibrom o.n.A.;Seromuzinöses Adenofibrom;;
+9014/1;900-903;Seröses Adenofibrom mit Borderline-Malignität;Seröses Zystadenofibrom mit Borderline-Malignität;;
+9014/3;900-903;Seröses Adenokarzinofibrom;Malignes seröses Adenofibrom;;
+9015/0;900-903;Muzinöses Adenofibrom o.n.A.;Muzinöses Zystadenofibrom o.n.A.;;
+9015/1;900-903;Muzinöses Adenofibrom mit Borderline-Malignität;Muzinöses Zystadenofibrom mit Borderline-Malignität;;
+9015/3;900-903;Muzinöses Adenokarzinofibrom;Malignes muzinöses Adenofibrom;;
+9016/0;900-903;RiesenfibroadenomC50.-;;;C50
+9020/0;900-903;Benigner Phylloides-TumorC50.-;Cystosarcoma phylloides benignumC50.-;;C50
+9020/1;900-903;Phylloides-Tumor mit Borderline-MalignitätC50.-;Cystosarcoma phylloides o.n.A.C50.-;;C50
+9020/3;900-903;Maligner Phylloides-TumorC50.-;Cystosarcoma phylloides malignumC50.-;;C50
+9030/0;900-903;Juveniles FibroadenomC50.-;;;C50
+9040/0;904-904;Benignes Synovialom;;;
+9040/3;904-904;Synovialsarkom o.n.A.;Malignes Synoviom;;
+9041/3;904-904;Spindelzelliges Synovialsarkom;Synovialsarkom vom monophasisch-fibrösen Typ;;
+9042/3;904-904;Epitheliales Synovialsarkom;;;
+9043/3;904-904;Biphasisches Synovialsarkom;;;
+9044/3;904-904;Klarzellsarkom o.n.A. (Exkl./ Niere8964/3);Malignes WeichteilmelanomC49.-;;8964/3
+9045/3;904-904;Biphänotypisches sinunasales SarkomC30.0; C31.-;;
+9050/0;905-905;Benignes Mesotheliom;;;
+9050/3;905-905;Malignes Mesotheliom;DMM;;
+9051/0;905-905;Fibröses benignes Mesotheliom;;;
+9051/3;905-905;Fibröses malignes Mesotheliom;Desmoplastisches Mesotheliom;;
+9052/0;905-905;Epitheloides benignes Mesotheliom;Gut differenziertes papilläres Mesotheliom (Exkl./ Pleura9052/1)Mesotheliales Papillom;;
+9052/1;905-905;Gut differenziertes papilläres Mesotheliom der PleuraC38.4;;;
+9052/3;905-905;Epitheloides malignes Mesotheliom;Epitheloides Mesotheliom o.n.A.;;
+9053/3;905-905;Biphasisches malignes Mesotheliom;Biphasisches Mesotheliom o.n.A.;;
+9054/0;905-905;Adenomatoid-Tumor o.n.A.;;;
+9055/0;905-905;Peritoneale EinschlusszystenC48.-;Multizystisches Mesotheliom;;C48
+9060/3;906-909;Dysgerminom;;;
+9061/3;906-909;Seminom o.n.A.C62.-;;;C62
+9062/3;906-909;Anaplastisches SeminomC62.-;Seminom mit hohem mitotischem IndexC62.-;;C62
+9063/3;906-909;Spermatozytisches SeminomC62.-;SpermatozytomC62.-;;C62
+9064/2;906-909;Maligne intratubuläre KeimzellenC62.-;Germinales Carcinoma in situC62.-;;C62
+9064/3;906-909;Germinom;Keimzelltumor o.n.A.;;
+9065/3;906-909;Nichtseminomatöser KeimzelltumorC62.-;;;C62
+9070/3;906-909;Embryonalkarzinom o.n.A.;Embryonales Adenokarzinom;;
+9071/3;906-909;Dottersacktumor o.n.A.;Dottersacktumor vom präpubertären Typ;;
+9072/3;906-909;Polyembryom;Embryonalkarzinom vom polyembryonalen Typ;;
+9073/1;906-909;Gonadoblastom;Gonadozytom;;
+9080/0;906-909;Benignes Teratom;Adultes Teratom o.n.A.;;
+9080/1;906-909;Teratom o.n.A.;Solides Teratom;;
+9080/3;906-909;Malignes Teratom o.n.A.;Embryonales Teratom;;
+9081/3;906-909;Teratokarzinom;Kombiniertes Embryonalkarzinom und Teratom;;
+9082/3;906-909;Undifferenziertes malignes Teratom;Anaplastisches malignes Teratom;;
+9083/3;906-909;Malignes Teratom vom intermediären Typ;;;
+9084/0;906-909;Dermoidzyste o.n.A.;Dermoid o.n.A.;;
+9084/3;906-909;Teratom mit maligner Transformation;Dermoidzyste mit maligner TransformationC56.9;;
+9085/3;906-909;Germinaler Mischtumor;Gemischtes Teratom und Seminom;;
+9086/3;906-909;Keimzelltumor mit assoziiertem hämatologischem Malignom;;;
+9090/0;906-909;Struma ovarii o.n.A.C56.9;;;
+9090/3;906-909;Maligne Struma ovariiC56.9;;;
+9091/1;906-909;Struma-KarzinoidC56.9;Struma ovarii und KarzinoidC56.9;;
+9100/0;910-910;Blasenmole o.n.A.C58.9;Klassische BlasenmoleC58.9;;
+9100/1;910-910;Invasive BlasenmoleC58.9;ChorionadenomC58.9;;
+9100/3;910-910;Chorionkarzinom o.n.A.;Chorionepitheliom;;
+9101/3;910-910;Chorionkarzinom in Kombination mit sonstigen Keimzellelementen;Chorionkarzinom kombiniert mit Teratom;;
+9102/3;910-910;Trophoblastisches malignes Teratom;;;
+9103/0;910-910;Partielle BlasenmoleC58.9;;;
+9104/1;910-910;Trophoblastischer PlazentatumorC58.9;;;
+9105/3;910-910;Epitheloider Trophoblasttumor;;;
+9110/0;911-911;Adenom der Rete ovariiC56.9;Benignes Mesonephrom;;
+9110/1;911-911;Wolff´scher Tumor;Mesonephrischer Tumor;;
+9110/3;911-911;Malignes Mesonephrom;Karzinom des Wolff-Ganges;;
+9120/0;912-916;Hämangiom o.n.A.;Angiom o.n.A.;;
+9120/3;912-916;Hämangiosarkom;Angiosarkom;;
+9121/0;912-916;Kavernöses Hämangiom;;;
+9122/0;912-916;Venöses Hämangiom;;;
+9123/0;912-916;Haemangioma racemosum;Arteriovenöses Hämangiom;;
+9124/3;912-916;Kupffer-Zell-SarkomC22.0;;;
+9125/0;912-916;Epitheloides Hämangiom;Histiozytoides Hämangiom;;
+9126/0;912-916;Atypische vaskuläre Läsion;;;
+9130/0;912-916;Benignes Hämangioendotheliom;;;
+9130/1;912-916;Hämangioendotheliom o.n.A.;Angioendotheliom;;
+9130/3;912-916;Malignes Hämangioendotheliom;Hämangioendotheliales Sarkom;;
+9131/0;912-916;Kapilläres Hämangiom;Haemangioma simplex;;
+9132/0;912-916;Intramuskuläres Hämangiom;Intramuskuläres Angiom;;
+9133/3;912-916;Epitheloides Hämangioendotheliom o.n.A.;Epitheloides malignes Hämangioendotheliom;;
+9135/1;912-916;Papilläres intralymphatisches Angioendotheliom;Dabska-Tumor;;
+9136/1;912-916;Spindelzelliges Hämangioendotheliom;Spindelzelliges Angioendotheliom;;
+9137/0;912-916;Myointimom;;;
+9137/3;912-916;Intimasarkom;;;
+9138/1;912-916;Pseudomyogenes (epithelioides sarkomähnliches) Hämangioendotheliom;;;
+9140/3;912-916;Kaposi-Sarkom;Multiples hämorrhagisches Sarkom;;
+9141/0;912-916;Angiokeratom;;;
+9142/0;912-916;Verruköses keratotisches Hämangiom;Verruköse venöse Malformation;;
+9160/0;912-916;Angiofibrom o.n.A.;Fibröse NasenpapelC44.3;;
+9161/0;912-916;Erworbenes büscheliges Hämangiom;Acquired tufted hemangioma;;
+9161/1;912-916;Hämangioblastom;Angioblastom;;
+9170/0;917-917;Lymphangiom o.n.A.;Lymphangioendotheliom o.n.A.;;
+9170/3;917-917;Lymphangiosarkom;Lymphangioendotheliales Sarkom;;
+9171/0;917-917;Kapilläres Lymphangiom;;;
+9172/0;917-917;Kavernöses Lymphangiom;;;
+9173/0;917-917;Zystisches Lymphangiom;Hygrom o.n.A.;;
+9174/0;917-917;Lymphangiomyom;;;
+9174/1;917-917;Lymphangioleiomyomatose;Lymphangiomyomatose;;
+9175/0;917-917;Hämolymphangiom;;;
+9180/0;918-924;Osteom o.n.A.C40.-C41.-;;;C40
+9180/3;918-924;Osteosarkom o.n.A.C40.-C41.-;Osteoblastisches SarkomC40.-C41.-;;C40
+9181/3;918-924;Chondroblastisches OsteosarkomC40.-C41.-;;;C40
+9182/3;918-924;Fibroblastisches OsteosarkomC40.-C41.-;OsteofibrosarkomC40.-C41.-;;C40
+9183/3;918-924;Teleangiektatisches OsteosarkomC40.-C41.-;;;C40
+9184/3;918-924;Osteosarkom in Paget-KnochenkrankheitC40.-C41.-;Sekundäres OsteosarkomC40.-; C41.-;
+9185/3;918-924;Kleinzelliges OsteosarkomC40.-C41.-;Rundzell-OsteosarkomC40.-C41.-;;C40
+9186/3;918-924;Zentrales Osteosarkom o.n.A.C40.-C41.-;Konventionelles zentrales OsteosarkomC40.-C41.-;;C40
+9187/3;918-924;Niedrigmalignes zentrales OsteosarkomC40.-C41.-;Niedrigmalignes intramedulläres OsteosarkomC40.-C41.-;;C40
+9191/0;918-924;Osteoidosteom o.n.AC40.-C41.-;;;C40
+9192/3;918-924;Parossales OsteosarkomC40.-C41.-;Juxtakortikales OsteosarkomC40.-C41.-;;C40
+9193/3;918-924;Periostales OsteosarkomC40.-C41.-;;;C40
+9194/3;918-924;Hochmalignes [High-grade] Oberflächen-OsteosarkomC40.-C41.-;;;C40
+9195/3;918-924;Intrakortikales OsteosarkomC40.-C41.-;;;C40
+9200/0;918-924;Osteoblastom o.n.A.C40.-C41.-;Riesen-OsteoidosteomC40.-C41.-;;C40
+9200/1;918-924;Aggressives OsteoblastomC40.-C41.-;;;C40
+9210/0;918-924;OsteochondromC40.-C41.-;EkchondromC40.-C41.-;;C40
+9210/1;918-924;Osteochondromatose o.n.A.C40.-C41.-;EkchondromatoseC40.-C41.-;;C40
+9211/0;918-924;Osteochondromyxom;;;
+9212/0;918-924;Bizarre parostale osteochondromatöse Proliferation;;;
+9213/0;918-924;Subunguale Exostose;;;
+9220/0;918-924;Chondrom o.n.A.C40.-C41.-;EnchondromC40.-C41.-;;C40
+9220/1;918-924;Chondromatose o.n.A.;;;
+9220/3;918-924;Chondrosarkom o.n.A.C40.-; C41.-;Chondrosarkom; Grad 2C40.-
+9221/0;918-924;Periostales ChondromC40.-C41.-;Juxtakortikales ChondromC40.-C41.-;;C40
+9221/3;918-924;Periostales ChondrosarkomC40.-C41.-;Juxtakortikales ChondrosarkomC40.-C41.-;;C40
+9222/1;918-924;Atypischer kartiaginärer Tumor;Chondrosarkom; Grad 1C40.-; C41.-
+9230/1;918-924;Chondroblastom o.n.A.C40.-C41.-;Chondromatöser RiesenzelltumorC40.-C41.-;;C40
+9230/3;918-924;Malignes ChondroblastomC40.-C41.-;;;C40
+9231/3;918-924;Myxoides Chondrosarkom;;;
+9240/3;918-924;Mesenchymales Chondrosarkom;;;
+9241/0;918-924;Chondromyxoides FibromC40.-C41.-;;;C40
+9242/3;918-924;Klarzell-ChondrosarkomC40.-C41.-;;;C40
+9243/3;918-924;Entdifferenziertes ChondrosarkomC40.-C41.-;;;C40
+9250/1;925-925;Riesenzelltumor des Knochens o.n.A.C40.-C41.-;Osteoklastom o.n.A.C40.-C41.-;;C40
+9250/3;925-925;Maligner Riesenzelltumor des KnochensC40.-C41.-;Malignes OsteoklastomC40.-C41.-;;C40
+9251/1;925-925;Riesenzelltumor der Weichteile o.n.A.;;;
+9251/3;925-925;Maligner Riesenzelltumor der Weichteile;;;
+9252/0;925-925;Lokalisierter tendosynovialer RiesenzelltumorC49.-;Fibröses Histiozytom der SehnenscheideC49.-;;C49
+9252/1;925-925;Tenosynovialer Riesenzelltumor der diffusen FormC49.-;Pigmentierte villonoduläre Synovitis;;C49
+9252/3;925-925;Maligner tendosynovialer RiesenzelltumorC49.-;Maligner Riesenzelltumor der SehnenscheideC49.-;;C49
+9260/0;926-926;Aneurysmatische Knochenzyste;;;
+9261/3;926-926;Adamantinom der langen RöhrenknochenC40.-;Adamantinom der TibiaC40.2;;C40
+9262/0;926-926;Ossifizierendes Fibrom;Fibro-Osteom;;
+9270/0;927-934;Benigner odontogener Tumor;;;
+9270/1;927-934;Odontogener Tumor o.n.A.;;;
+9270/3;927-934;Maligner odontogener Tumor;Ameloblastisches Karzinom;;
+9271/0;927-934;Ameloblastisches Fibrodentinom;Dentinom;;
+9272/0;927-934;Zementom o.n.A.;Periapikale zementale Dysplasie;;
+9273/0;927-934;Benignes Zementoblastom;;;
+9274/0;927-934;Zemento-ossifizierendes Fibrom;Zementbildendes Fibrom;;
+9275/0;927-934;Riesenzementom;Floride ossäre Dysplasie;;
+9280/0;927-934;Odontom o.n.A.;;;
+9281/0;927-934;Compound-Odontom;;;
+9282/0;927-934;Komplexes Odontom;;;
+9290/0;927-934;Ameloblastisches Fibro-Odontom;Fibro-ameloblastisches Odontom;;
+9290/3;927-934;Ameloblastisches Odontosarkom;Ameloblastisches Fibrodentinosarkom;;
+9300/0;927-934;Adenomatoider odontogener Tumor;Adenoameloblastom;;
+9301/0;927-934;Kalzifizierende odontogene Zyste;;;
+9302/0;927-934;Dentinogener Schattenzelltumor;Odontogener Schattenzelltumor;;
+9302/3;927-934;Odontogenes Schattenzellkarzinom;;;
+9310/0;927-934;Ameloblastom o.n.A.;Adamantinom o.n.A. (Exkl./ Adamantinom der langen Röhrenknochen9261/3);;
+9310/3;927-934;Metastasierendes Ameloblastom;Malignes Adamantinom (Exkl./ Adamantinom der langen Röhrenknochen9261/3);;
+9311/0;927-934;Odontoameloblastom;;;
+9312/0;927-934;Odontogener Plattenepitheltumor;;;
+9320/0;927-934;Odontogenes Myxom;Odontogenes Myxofibrom;;
+9321/0;927-934;Odontogenes Fibrom o.n.A.;Zentrales odontogenes Fibrom;;
+9322/0;927-934;Peripheres odontogenes Fibrom;;;
+9330/0;927-934;Ameloblastisches Fibrom;;;
+9330/3;927-934;Ameloblastisches Fibrosarkom;Ameloblastisches Sarkom;;
+9340/0;927-934;Kalzifizierender epithelialer odontogener Tumor;Pindborg-Tumor;;
+9341/3;927-934;Klarzelliges odontogenes Karzinom;Odontogener Klarzelltumor;;
+9342/3;927-934;Odontogenes Karzinosarkom;;;
+9350/1;935-937;KraniopharyngeomC75.2;Rathke-Taschen-TumorC75.1;;
+9351/1;935-937;Adamantinöses KraniopharyngeomC75.2;;;
+9352/1;935-937;Papilläres KraniopharyngeomC75.2;;;
+9360/1;935-937;PinealomC75.3;;;
+9361/1;935-937;PineozytomC75.3;;;
+9362/3;935-937;PineoblastomC75.3;Pineal-Tumor vom ÜbergangstypC75.3;;
+9363/0;935-937;Pigmentierter neuroektodermaler Tumor;Melanoameloblastom;;
+9364/3;935-937;Ewing-Sarkom;Ewing-Tumor;;
+9365/3;935-937;Askin-Tumor;;;
+9370/0;935-937;Gutartiger notochordaler Tumor;;;
+9370/3;935-937;Chordom o.n.A.;;;
+9371/3;935-937;Chondroides Chordom;;;
+9372/3;935-937;Entdifferenziertes Chordom;;;
+9373/0;935-937;Parachordom;;;
+9380/3;938-948;Malignes GliomC71.-;Gliom o.n.A.C71.-(Exkl./ Nichtneoplastisches Nasengliom);;C71
+9381/3;938-948;Gliomatosis cerebriC71.-;;;C71
+9382/3;938-948;Oligoastrozytom o.n.A.C71.-;Anaplastisches OligoastrozytomC71.-;;C71
+9383/1;938-948;SubependymomC71.-;Subependymales Astrozytom o.n.A.C71.-;;C71
+9384/1;938-948;Subependymales RiesenzellastrozytomC71.-;;;C71
+9385/3;938-948;Diffuses Mittelliniengliom; H3 K27M MutationC71.-;Diffuses intrinsisches Ponsgliom; H3 K27M MutationC71.7
+9390/0;938-948;Plexus-chorioideus-Papillom o.n.A.C71.5;;;
+9390/1;938-948;Atypisches Plexus-chorioideus-PapillomC71.5;;;
+9390/3;938-948;Plexus-chorioideus-KarzinomC71.5;Anaplastisches Plexus-chorioideus-PapillomC71.5;;
+9391/1;938-948;Selläres EpendymomC75.1;;;C75.1
+9391/3;938-948;Ependymom o.n.A.C71.-;Epitheliales EpendymomC71.-;;C71
+9392/3;938-948;Anaplastisches EpendymomC71.-;EpendymoblastomC71.-;;C71
+9393/3;938-948;Papilläres EpendymomC71.-;;;C71
+9394/1;938-948;Myxopapilläres EpendymomC72.0;;;
+9395/3;938-948;Papillärer Tumor der Pinealisloge;;;
+9396/3;938-948;Ependymom; RELA-Fusion positivC71.-;;
+9400/3;938-948;Astrozytom o.n.A.C71.-;AstrogliomC71.-;;C71
+9401/3;938-948;Anaplastisches Astrozytom o.n.A.C71.-;Anaplastisches Astrozytom; IDH-MutationC71.-;
+9410/3;938-948;Protoplasmatisches AstrozytomC71.-;;;C71
+9411/3;938-948;Gemistozytisches Astrozytom o.n.A.C71.-;Gemistozytisches Astrozytom; IDH-MutationC71.-;
+9412/1;938-948;Infantiles desmoplastisches AstrozytomC71.-;Desmoplastisches infantiles GangliogliomC71.-DIG;;C71
+9413/0;938-948;Dysembryoblastischer neuroepithelialer Tumor;;;
+9420/3;938-948;Fibrilläres AstrozytomC71.-;Fibröses AstrozytomC71.-;;C71
+9421/1;938-948;Pilozytisches AstrozytomC71.-;Juveniles AstrozytomC71.-;;C71
+9423/3;938-948;Polares SpongioblastomC71.-;Primitives polares SpongioblastomC71.-;;C71
+9424/3;938-948;Pleomorphes Xanthoastrozytom o.n.A.C71.-;Anaplastisches pleomorphes XanthoastrozytomC71.-;;C71
+9425/3;938-948;Pilomyxoides Astrozytom;;;
+9430/3;938-948;AstroblastomC71.-;;;C71
+9431/1;938-948;Angiozentrisches Gliom;;;
+9432/1;938-948;Pituizytom;;;
+9440/3;938-948;Glioblastom o.n.A.C71.-;Epitheloides GlioblastomC71.-;;C71
+9441/3;938-948;Riesenzelliges GlioblastomC71.-;Monstrozelluläres SarkomC71.-;;C71
+9442/1;938-948;GliofibromC71.-;;;C71
+9442/3;938-948;GliosarkomC71.-;Glioblastom mit SarkomanteilenC71.-;;C71
+9444/1;938-948;Chordoides GliomC71.-;Chordoides Gliom des 3. VentrikelsC71.5;;C71
+9445/3;938-948;Glioblastom; IDH-mutiertC71.-;Sekundäres Glioblastom; IDH-MutationC71.-
+9450/3;938-948;Oligodendrogliom o.n.A.C71.-;Oligodendrogliom; IDH-mutiert und mit 1p/19q-Co-DeletionC71.-;
+9451/3;938-948;Anaplastisches OligodendrogliomC71.-;Anaplastisches Oligodendrogliom; IDH-Mutation und 1p/19q-Co-DeletionC71.-;
+9460/3;938-948;OligodendroblastomC71.-;;;C71
+9470/3;938-948;Medulloblastom o.n.A.C71.6;Klassisches MedulloblastomC71.6;;
+9471/3;938-948;Desmoplastisches noduläres MedulloblastomC71.6;Arachnoidales KleinhirnsarkomC71.6;;
+9472/3;938-948;MedullomyoblastomC71.6;;;
+9473/3;938-948;Embryonaler Tumor des ZNS o.n.A.;Primitiver neuroektodermaler Tumor o.n.A.;;
+9474/3;938-948;Großzelliges MedulloblastomC71.6;Anaplastisches Medulloblastom;;
+9475/3;938-948;Medulloblastom; WNT-aktiviert o.n.A.C71.6;Anaplastisches Medulloblastom; WNT-aktiviertC71.6
+9476/3;938-948;Medulloblastom; SHH-aktiviert und TP53 mutiertC71.6;;
+9477/3;938-948;Medulloblastom; nicht-WNT-/nicht-SHH-aktiviertC71.6;Medulloblastom; Gruppe 3C71.6
+9478/3;938-948;Embryonaler Tumor mit mehrschichtigen Rosetten und C19MC-AlterationC71.-;Embryonaler Tumor mit mehrschichtigen Rosetten o.n.A.C71.-;;C71
+9480/3;938-948;Kleinhirnsarkom o.n.A.C71.6;;;
+9490/0;949-952;Ganglioneurom;;;
+9490/3;949-952;Ganglioneuroblastom;Ganglineuroblastom des ZNS;;
+9491/0;949-952;Ganglioneuromatose;;;
+9492/0;949-952;Gangliozytom o.n.A.;;;
+9493/0;949-952;Dysplastisches Gangliozytom des Kleinhirns (Lhermitte-Duclos)C71.6;;;
+9500/3;949-952;Neuroblastom o.n.A.;Neuroblastom des ZNS;;
+9501/0;949-952;Benignes MedulloepitheliomC69.4;Benignes DiktyomC69.-;;
+9501/3;949-952;Medulloepitheliom o.n.A.;Malignes DiktyomC69.-;;
+9502/0;949-952;Benignes teratoides MedulloepitheliomC69.4;;;
+9502/3;949-952;Teratoides Medulloepitheliom o.n.A.;;;
+9503/3;949-952;Neuroepitheliom o.n.A.;;;
+9504/3;949-952;Spongioneuroblastom;;;
+9505/1;949-952;Gangliogliom o.n.A.;Glioneurom;;
+9505/3;949-952;Anaplastisches Gangliogliom;;;
+9506/1;949-952;Zentrales Neurozytom;Neurozytom o.n.A.;;
+9507/0;949-952;Pacini-Tumor;;;
+9508/3;949-952;Atypischer teratoider/rhabdoider TumorC71.-;Embryonaler Tumor des ZNS mit rhabdoiden MerkmalenC71.-;;
+9509/1;949-952;Papillärer glioneuronaler Tumor;Rosettenförmiger glioneuronaler Tumor;;
+9510/0;949-952;RetinozytomC69.2;;;
+9510/3;949-952;Retinoblastom o.n.A.C69.2;;;
+9511/3;949-952;Differenziertes RetinoblastomC69.2;;;
+9512/3;949-952;Undifferenziertes RetinoblastomC69.2;;;
+9513/3;949-952;Diffuses RetinoblastomC69.2;;;
+9514/1;949-952;Spontan regrediertes RetinoblastomC69.2;;;
+9520/3;949-952;Neurogener Olfaktoriustumor;;;
+9521/3;949-952;Olfaktorius-NeurozytomC30.0;ÄsthesioneurozytomC30.0;;
+9522/3;949-952;Olfaktorius-NeuroblastomC30.0;ÄsthesioneuroblastomC30.0;;
+9523/3;949-952;Olfaktorius-NeuroepitheliomC30.0;ÄsthesioneuroepitheliomC30.0;;
+9530/0;953-953;Meningeom o.n.A.;Lymphoplasmozytenreiches Meningeom;;
+9530/3;953-953;Malignes Meningeom;Anaplastisches Meningeom;;
+9531/0;953-953;Meningotheliales Meningeom;Endotheliales Meningeom;;
+9532/0;953-953;Fibröses Meningeom;Fibroblastisches Meningeom;;
+9533/0;953-953;Psammöses Meningeom;;;
+9534/0;953-953;Angiomatöses Meningeom;;;
+9535/0;953-953;Hämangioblastisches Meningeom;Angioblastisches Meningeom;;
+9537/0;953-953;Meningeom vom Übergangstyp;Mischmeningeom;;
+9538/1;953-953;Klarzell-Meningeom;Chordoides Meningeom;;
+9538/3;953-953;Papilläres Meningeom;Rhabdoides Meningeom;;
+9539/1;953-953;Atypisches Meningeom;;;
+9539/3;953-953;Meningeale Sarkomatose;;;
+9540/0;954-957;Neurofibrom o.n.A.;;;
+9540/3;954-957;Maligner peripherer Nervenscheidentumor o.n.A.;MPNST o.n.A.;;
+9541/0;954-957;Melanotisches Neurofibrom;;;
+9542/3;954-957;Epitheloider maligner peripherer Nervenscheidentumor;Epithelioid MPNST;;
+9550/0;954-957;Plexiformes Neurofibrom;Plexiformes Neurom;;
+9560/0;954-957;Schwannom o.n.A.;Neurilemmom o.n.A.;;
+9560/1;954-957;Melanozytisches Schwannom;Pigmentiertes Schwannom;;
+9560/3;954-957;Malignes Neurilemmom;Malignes Schwannom o.n.A.;;
+9561/3;954-957;Maligner peripherer Nervenscheidentumor mit rhabdomyoblastischer Differenzierung;Maligner Tritontumor;;
+9562/0;954-957;Nervenscheidenmyxom;Neurothekom;;
+9563/0;954-957;Nervenscheidentumor o.n.A.;Hybrider Nervenscheidentumor;;
+9570/0;954-957;Neurom o.n.A.;Solitäres umschriebenes Neurom;;
+9571/0;954-957;Perineuriom o.n.A.;Intraneurales Perineuriom;;
+9571/3;954-957;Malignes Perineuriom;;;
+9580/0;958-958;Granularzelltumor o.n.A. (Exkl./ Sellaregion9582/0);Granularzellmyoblastom o.n.A.;;9582/0
+9580/3;958-958;Maligner Granularzelltumor;Malignes Granularzellmyoblastom;;
+9581/3;958-958;Alveoläres Weichteilsarkom;;;
+9582/0;958-958;Granularzelltumor des InfundibulumsC75.1;;;
+9590/3;959-959;Malignes Lymphom o.n.A.;Lymphom o.n.A.;;
+9591/1;959-959;Monoklonale B-Zell-Lymphozytose; o.n.A. (siehe auch9823/1);Monoklonale B-Zell-Lymphozytose; non-CLL-Typ
+9591/3;959-959;Malignes Non-Hodgkin-Lymphom o.n.A;Non-Hodgkin-Lymphom o.n.A;;
+9596/3;959-959;Kombiniertes malignes Hodgkin- und Non-Hodgkin-Lymphom;B-Zell-Lymphom; nicht klassifizierbar; mit Eigenschaften zwischen denen eines diffus großzelligen B-Zell-Lymphoms und eines klassischen Hodgkin-Lymphoms
+9597/3;959-959;Primär kutanes Follikelzentrumslymphom;;;
+9650/3;965-966;Hodgkin-Lymphom o.n.A.;M. Hodgkin o.n.A.;;
+9651/3;965-966;Hodgkin-Lymphom; lymphozytenreich;Lymphozytenreiches klassisches Hodgkin-Lymphom;
+9652/3;965-966;Hodgkin-Lymphom; gemischtzellige Form o.n.A.;Gemischtzelliges klassisches Hodgkin-Lymphom o.n.A.;
+9653/3;965-966;Hodgkin-Lymphom; lymphozytenarmer Typ o.n.A.;Lymphozytenarmes klassisches Hodgkin-Lymphom o.n.A.;
+9654/3;965-966;Hodgkin-Lymphom; lymphozytenarmer Typ; diffuse Fibrose;Lymphozytenarmes klassisches Hodgkin-Lymphom
+9655/3;965-966;Hodgkin-Lymphom; lymphozytenarmer Typ; retikuläre Form;Lymphozytenarmes klassisches Hodgkin-Lymphom
+9659/3;965-966;Nodulär Lymphozyten-prädominantes Hodgkin-Lymphom;Hodgkin-Paragranulom o.n.A.;;
+9661/3;965-966;Hodgkin-Granulom;;;
+9662/3;965-966;Hodgkin-Sarkom;;;
+9663/3;965-966;Hodgkin-Lymphom; nodulär-sklerosierender Typ o.n.A.;Nodulär-sklerosierender M. Hodgkin o.n.A.;
+9664/3;965-966;Hodgkin-Lymphom; nodulär-sklerosierender Typ; zelluläre Phase;Nodulär-sklerosierendes klassisches Hodgkin-Lymphom
+9665/3;965-966;Hodgkin-Lymphom; nodulär-sklerosierender Typ; Grad I;Gemischtzelliger M. Hodgkin
+9667/3;965-966;Hodgkin-Lymphom; nodulär-sklerosierender Typ; Grad II;Lymphozytenarmer M. Hodgkin
+9671/3;967-969;Lymphoplasmozytisches Lymphom (siehe 9761/3);Lymphoplasmozytoides Lymphom;;9761/3
+9673/1;967-969;In situ Mantelzell-Neoplasie;In situ Mantelzell-Lymphom;;
+9673/3;967-969;Mantelzell-Lymphom (Hinw./ Einschließlich aller Varianten (blastisch; pleomorph; kleinzellig));Lymphozytisches mittelgradig differenziertes diffuses Lymphom
+9675/3;967-969;Gemischt klein- und großzelliges diffuses Lymphom (siehe 9690/3);Diffuses Lymphom vom Mischzelltyp;;9690/3
+9678/3;967-969;Primary effusion lymphoma;;;
+9679/3;967-969;Primär mediastinales großzelliges B-Zell-LymphomC38.3;Thymisches großzelliges B-Zell-LymphomC37.9;;
+9680/1;967-969;EBV-positives mukokutanes Ulkus;;;
+9680/3;967-969;Diffuses großzelliges B-Zell-Lymphom o.n.A.;Diffuses großzelliges Lymphom o.n.A.;;
+9684/3;967-969;Großzelliges diffuses B-Zell-Lymphom; immunoblastische Variante o.n.A.;Großzelliges immunoblastisches Lymphom;
+9687/3;967-969;Burkitt-Lymphom o.n.A. (Hinw./ Einschließlich aller Varianten);Burkitt-Tumor;;
+9688/3;967-969;T-Zell-reiches/histiozytenreiches großzelliges B-Zell-Lymphom;Histiozytenreiches großzelliges B-Zell-Lymphom;;
+9689/3;967-969;Marginalzonen-B-Zell-Lymphom der MilzC42.2;Lymphom der Milz mit villösen LymphozytenC42.2;;
+9690/3;967-969;Follikuläres Lymphom o.n.A. (siehe 9675/3);Follikelzentrums-Lymphom o.n.A.;;9675/3
+9691/3;967-969;Follikuläres Lymphom; Grad 2;Follikuläres Lymphom vom Mischzelltyp;
+9695/1;967-969;In situ follikuläre Neoplasie;In situ follikuläres Lymphom;;
+9695/3;967-969;Follikuläres Lymphom; Grad 1;Kleinzelliges gekerbtkerniges follikuläres Lymphom;
+9698/3;967-969;Follikuläres Lymphom; Grad 3;Follikuläres Lymphom; Grad 3A
+9699/3;967-969;Marginalzonen-B-Zell-Lymphom o.n.A.;Lymphom des Bronchus-assoziierten lymphatischen GewebesBALT-Lymphom;;
+9700/3;970-971;Mycosis fungoidesC44.-;Pagetoide Retikulose;;C44
+9701/3;970-971;Szary-Syndrom;M. Szary;;
+9702/1;970-971;Indolente T-Zell-lymphoproliferative Krankheit des Gastrointestinaltraktes;;;
+9702/3;970-971;Reifzelliges T-Zell-Lymphom o.n.A.;Peripheres großzelliges T-Zell-Lymphom;;
+9705/3;970-971;Angioimmunoblastisches T-Zell-Lymphom;Angioimmunoblastisches Lymphom;;
+9708/3;970-971;Subkutanes pannikulitisches T-Zell-Lymphom;;;
+9709/1;970-971;Primär kutane CD4-positive klein/medium T-Zell-lymphoproliferative ErkrankungC44.-;Primär kutanes CD4-positives klein/medium T-Zell-LymphomC44.-;;C44
+9709/3;970-971;Kutanes T-Zell-LymphomC44.-;Hautlymphom o.n.A.C44.-;;C44
+9712/3;970-971;Intravaskuläres großzelliges B-Zell-LymphomC49.9;Angioendotheliomatose;;
+9714/3;970-971;Großzelliges anaplastisches T-Zell und Null-Zell-Lymphom;Großzelliges (Ki-1-positives) Lymphom;;
+9715/3;970-971;Anaplastisches großzelliges Lymphom; ALK-negativ;Mammaimplantat-assoziiertes anaplastisches großzelliges LymphomC50.-;
+9716/3;970-971;Hepatosplenisches T-Zell-Lymphom;Hepatosplenisches Gamma-Delta-Zell-Lymphom;;
+9717/3;970-971;Intestinales T-Zell-Lymphom;Enteropathie-assoziiertes T-Zell-Lymphom;;
+9718/1;970-971;Primär kutane CD30-positive T-zellige lymphoproliferative ErkrankungC44.-;Lymphomatoide PapuloseC44.-;;C44
+9718/3;970-971;Primär kutanes anaplastisches großzelliges Lymphom der HautC44.-;CD30+ großzelliges T-Zell-Lymphom der HautC44.-;;C44
+9719/3;970-971;Nasales NK/T-Zell-Lymphom;Angiozentrisches T-Zell-Lymphom;;
+9724/3;972-972;Systemische EBV-positive T-Zell-lymphoproliferative Erkrankung der Kindheit;;;
+9725/1;972-972;Hydroa-vacciniform-lymphoproliferative Erkrankung;Hydroa-vacciniform-artiges Lymphom;;
+9726/3;972-972;Primär kutanes Gamma-Delta-T-Zell-LymphomC44.-;;;C44
+9727/3;972-972;Lymphoblastisches Lymphom der Vorläuferzellen o.n.A. (siehe 9835/3);Convoluted-Cell-Lymphom;;9835/3
+9731/3;973-973;Plasmozytom o.n.A.;Plasmazelltumor;;
+9732/3;973-973;PlasmazellmyelomC42.1;Multiples MyelomC42.1;;
+9733/3;973-973;Plasmazell-LeukämieC42.1;Plasmozytäre LeukämieC42.1;;
+9734/3;973-973;Extramedulläres Plasmozytom;Extraossäres Plasmozytom;;
+9735/3;973-973;Plasmablastisches Lymphom;;;
+9737/3;973-973;ALK-positives großzelliges B-Zell-Lymphom;;;
+9738/3;973-973;HHV8-positives diffuses großzelliges B-Zell-Lymphom;Großzelliges B-Zell-Lymphom bei HHV8-assoziierter multizentrischer Castleman-Krankheit;;
+9740/1;974-974;Mastozytom o.n.A.;Mastzelltumor o.n.A.;;
+9740/3;974-974;Mastzellsarkom;Maligner Mastzelltumor;;
+9741/1;974-974;Indolente systemische Mastozytose;;;
+9741/3;974-974;Maligne Mastozytose;Systemische Mastozytose;;
+9742/3;974-974;Mastzell-LeukämieC42.1;;;
+9749/3;974-974;Erdheim-Chester-Krankheit;;;
+9750/3;975-975;Maligne Histiozytose;Histiozytäre medulläre Retikulose;;
+9751/1;975-975;Langerhans-Zell-Histiozytose o.n.A.;Langerhans-Zell-Histiozytose mehrerer Knochen;;
+9751/3;975-975;Disseminierte Langerhans-Zell-Histiozytose;Langerhans-Zell-Granulomatose;;
+9755/3;975-975;Histiozytäres Sarkom;Echtes histiozytisches Lymphom;;
+9756/3;975-975;Langerhans-Zell-Sarkom;;;
+9757/3;975-975;Sarkom der dendritischen Retikulumzellen;Retikulumzellsarkom;;
+9758/3;975-975;Follikuläres Dendriten-Zell-Sarkom;Follikulärer Dendriten-Zell-Tumor;;
+9759/3;975-975;Fibroblastischer retikulärer Zelltumor;;;
+9760/3;976-976;Immunoproliferative Krankheit o.n.A.;;;
+9761/1;976-976;Monoklonale IgM-Gammopathie unbestimmter Signifikanz;;;
+9761/3;976-976;Waldenström-MakroglobulinämieC42.0 (siehe 9671/3);;;
+9762/3;976-976;Schwerketten-Krankheit o.n.A.;Alpha-Schwerketten-Krankheit;;
+9764/3;976-976;Immunoproliferative Krankheit des DünndarmsC17.-;Mittelmeer-Lymphom;;C17
+9765/1;976-976;Monoklonale Gammopathie unbestimmter Signifikanz o.n.A.;MGUS;;
+9766/1;976-976;Angiozentrische immunoproliferative Veränderung;Lymphomatoide Granulomatose o.n.A.;;
+9766/3;976-976;Lymphomatoide Granulomatose; Grad 3;;
+9767/1;976-976;Angioimmunoblastische Lymphadenopathie;AIL;;
+9768/1;976-976;T-Gamma-lymphoproliferative Krankheit;;;
+9769/1;976-976;Immunglobulin-Ablagerungs-Krankheit;Primäre Amyloidose;;
+9800/3;980-980;Leukämie o.n.A.;Aleukämische Leukämie o.n.A.;;
+9801/3;980-980;Akute Leukämie o.n.A.;Blasten-Leukämie;;
+9805/3;980-980;Akute biphänotypische Leukämie;Akute Bilineage-Leukämie;;
+9806/3;980-980;Akute gemischt-phänotyptische Leukämie mit t(9_22)(q34_q11.2)_ BCR-ABL1;;;
+9807/3;980-980;Akute gemischt-phänotyptische Leukämie mit t(v_11q23)_ MLL rearranged;;;
+9808/3;980-980;Akute gemischt-phänotyptische Leukämie B/myeloisch; o.n.A.;;
+9809/3;980-980;Akute gemischt-phänotyptische Leukämie T/myeloisch; o.n.A.;;
+9811/3;981-983;B-lymphoblastische/s Leukämie/Lymphom o.n.A.;B-lymphoblastisches Lymphom vom Vorläufer-Typ;;
+9812/3;981-983;B-lymphoblastische/s Leukämie/Lymphom mit t(9_22)(q34_q11.2)_ BCR-ABL1;;;
+9813/3;981-983;B-lymphoblastische/s Leukämie/Lymphom mit t(v_11q23)_ MLL rearranged;;;
+9814/3;981-983;B-lymphoblastische/s Leukämie/Lymphom mit t(12_21)(p13_q22)_ TEL-AML1 (ETV6-RUNX1);;;
+9815/3;981-983;B-lymphoblastische/s Leukämie/Lymphom mit Hyperdiploidie;;;
+9816/3;981-983;B-lymphoblastische/s Leukämie/Lymphom mit Hypodiploidie (Hypodiploid-ALL );;;
+9817/3;981-983;B-lymphoblastische/s Leukämie/Lymphom mit t(5_14)(q31_q32)_ IL3-IGH;;;
+9818/3;981-983;B-lymphoblastische/s Leukämie/Lymphom mit t(1_19)(q23_p13.3)_ E2A-PBX1 (TCF3-PBX1);;;
+9819/3;981-983;BCR-ABL1-like B-lymphoblastische/s Leukämie/Lymphom;;;
+9820/3;981-983;Lymphatische Leukämie o.n.A.;Aleukämische lymphoide LeukämieAleukämische lymphozytische Leukämie;;
+9823/1;981-983;Monoklonale B-Zell-Lymphozytose vom CLL-Typ;;;
+9823/3;981-983;Chronische lymphatische B-Zell-Leukämie/kleinzelliges lymphozytisches Lymphom;Chronische lymphoide Leukämie;;
+9827/3;981-983;Adulte(s) T-Zell-Lymphom/Leukämie (HTLV1-positiv) (Hinw./ Einschließlich aller Varianten);Adulte T-Zell-Leukämie;;
+9831/3;981-983;Lymphatische T-Zell-Leukämie vom grobgranulären Typ;Grobgranuläre lymphatische T-Zell-Lymphozytose;;
+9832/3;981-983;Prolymphozytenleukämie o.n.A.;;;
+9833/3;981-983;Prolymphozytenleukämie vom B-Zell-Typ;;;
+9834/3;981-983;Prolymphozytenleukämie vom T-Zell-Typ;;;
+9835/3;981-983;Vorläuferzell-lymphoblastische Leukämie o.n.A. (siehe 9727/3);Akute lymphatische Leukämie;;9727/3
+9837/3;981-983;Vorläufer-T-lymphoblastische Leukämie;Cortical T-ALL;;
+9840/3;984-993;Akute erythroide Leukämie;Akute Erythrämie;;
+9860/3;984-993;Myeloische Leukämie o.n.A.;Granulozytäre Leukämie o.n.A.;;
+9861/3;984-993;Akute myeloische Leukämie o.n.A. (siehe9930/3);Akute granulozytäre Leukämie;;9930/3
+9863/3;984-993;Chronische myeloische Leukämie o.n.A.;CML;;
+9865/3;984-993;Akute myeloische Leukämie mit t(6_9)(p23_q34)_ DEK-NUP214;;;
+9866/3;984-993;Akute Promyelozytenleukämie; t(15_17)(q22_q11-12);Akute myeloische Leukämie; t(15_17)(q22_q11-12)
+9867/3;984-993;Akute myelomonozytäre Leukämie;FAB M4;;
+9869/3;984-993;Akute myeloische Leukämie mit inv(3)(q21q26.2) oder t(3_3)(q21_q26.2)_ RPN1-EVI1;;;
+9870/3;984-993;Akute Basophilenleukämie;;;
+9871/3;984-993;Akute myelomonozytäre Leukämie mit Eosinophilie (Hinw./ Einschließlich aller Varianten);Akute myeloische Leukämie; CBF-beta/MYH11;
+9872/3;984-993;Akute myeloische Leukämie mit minimaler Ausreifung;Akute blastär-undifferenzierte myeloische Leukämie;;
+9873/3;984-993;Akute myeloische Leukämie ohne Ausreifung;FAB M1;;
+9874/3;984-993;Akute myeloische Leukämie mit Ausreifung;FAB M2 o.n.A.;;
+9875/3;984-993;Chronische myeloische Leukämie; BCR/ABL positiv;Chronische granulozytäre Leukämie; BCR/ABL
+9876/3;984-993;Atypische chronische myeloische Leukämie; BCR/ABL negativ;Atypische chronische myeloische Leukämie; Philadelphia-Chromosom negativ
+9877/3;984-993;Akute myeloische Leukämie mit mutiertem NPM1;;;
+9878/3;984-993;Akute myeloische Leukämie mit biallelischer CEBPA-Mutation;;;
+9879/3;984-993;Akute myeloische Leukämie mit mutiertem RUNX1;;;
+9891/3;984-993;Akute Monozytenleukämie;Akute Monoblastenleukämie;;
+9895/3;984-993;Akute myeloische Leukämie mit Myelodysplasie-ähnlichen Veränderungen;Akute myeloische Leukämie mit Mehrlinien-Dysplasie;;
+9896/3;984-993;Akute myeloische Leukämie; t(8_21)(q22_q22);Akute myeloische Leukämie; AML1(CBF- alpha)/ETO
+9897/3;984-993;Akute myeloische Leukämie mit 11q23-Abnormitäten;Akute myeloische Leukämie mit t(9_11)(p22_q23)_ MLLT3-MLL;;
+9898/1;984-993;Transiente abnorme Myelopoese;;;
+9898/3;984-993;Myeloische Leukämie assoziiert mit Down-Syndrom;;;
+9910/3;984-993;Akute Megakaryoblastenleukämie;Akute megakaryozytäre Leukämie;;
+9911/3;984-993;Akute myeloische Leukämie (megakaryoblastisch) mit t(1_22)(p13_q13)_ RBM15-MKL1;;;
+9912/3;984-993;Akute myeloische Leukämie mit BCR-ABL1;;;
+9920/3;984-993;Therapiebedingte myeloische Neoplasie;Akute myeloische Leukämie infolge Therapie o.n.A.;;
+9930/3;984-993;Myelosarkom (siehe 9861/3);Chlorom;;9861/3
+9931/3;984-993;Akute Panmyelose mit MyelofibroseC42.1;Akute Myelofibrose;;
+9940/3;994-994;Haarzell-LeukämieC42.1;Haarzell-Leukämie Variante;;
+9945/3;994-994;Chronische myelomonozytäre Leukämie o.n.A.;Chronische myelomonozytäre Leukämie vom Typ 1;;
+9946/3;994-994;Juvenile myelomonozytäre Leukämie;Juvenile chronische myelomonozytäre Leukämie;;
+9948/3;994-994;Aggressive NK-Zell-Leukämie;;;
+9950/3;995-996;Polycythaemia vera;Chronische Erythrämie;;
+9960/3;995-996;Myeloproliferative Neoplasie o.n.A.;Chronische myeloproliferative Erkrankung;;
+9961/3;995-996;Primäre Myelofibrose;Chronische idiopathische Myelofibrose;;
+9962/3;995-996;Essentielle Thrombozythämie;Essentielle hämorrhagische Thrombozythämie;;
+9963/3;995-996;Chronische Neutrophilen-Leukämie;;;
+9964/3;995-996;Chronische eosinophile Leukämie;Hypereosinophilie-Syndrom;;
+9965/3;995-996;Myeloische und lymphatische Neoplasien mit PDGFRA-Rearrangement;;;
+9966/3;995-996;Myeloische Neoplasien mit PDGFRB-Rearrangement;;;
+9967/3;995-996;Myeloische und lymphatische Neoplasien mit FGFR1-Abnormalitäten;;;
+9968/3;995-996;Myeloische und lymphoide Neoplasie mit PCM1-JAK2;;;
+9970/1;997-997;Lymphoproliferative Erkrankung o.n.A.;Lymphoproliferative Krankheit o.n.A.;;
+9971/1;997-997;Lymphoproliferative Krankheit nach Transplantation o.n.A. (siehe 9650/3);PTLD o.n.A.;;9650/3
+9975/3;997-997;Myeloproliferative Neoplasie; nicht klassifizierbar;Myelodysplastische/myeloproliferative Neoplasie; nicht klassifizierbar
+9980/3;998-999;Myelodysplastisches Syndrom mit Single-Lineage-Dysplasie;Refraktäre Anämie ohne Sideroblasten;;
+9982/3;998-999;Myelodysplastisches Syndrom mit Ringsideroblasten und Single-Lineage-Dysplasie;Myelodysplastisches Syndrom mit Ringsideroblasten; o.n.A.;
+9983/3;998-999;Myelodysplastisches Syndrom mit Blastenüberschuss;Refraktäre Anämie mit Blastenüberschuss;;
+9984/3;998-999;Refraktäre Anämie mit Blastenüberschuss in Transformation;RAEB-T;;
+9985/3;998-999;Myelodysplastisches Syndrom mit multilineärer Dysplasie;Refraktäre Zytopenie mit Mehrlinien-Dysplasie;;
+9986/3;998-999;Myelodysplastisches Syndrom mit isolierter del (5q);Myelodysplastisches Syndrom mit 5q-Deletion (5q-);;
+9987/3;998-999;Therapiebedingtes myelodysplastisches Syndrom o.n.A.;Therapiebedingtes myelodysplastisches Syndrom durch Alkylantien;;
+9989/3;998-999;Myelodysplastisches Syndrom o.n.A.;Präleukämie;;
+9993/3;998-999;Myelodysplastisches Syndrom mit Ringsideroblasten und multilineärer Dysplasie;;;
