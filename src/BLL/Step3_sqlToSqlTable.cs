@@ -12,13 +12,13 @@ namespace Rki.CancerData.Clinical.TableConverter.App.BLL;
 public class Step3_sqlToSqlTable
 {
 
-    public static void Start(SqlSupportDbConnection dbConnection)
+    public static void Start()
     {
         foreach (var path in Converter.GetAllFilesInDir(StructureSupport.SerializerType.sql))
         {
             (new ConverterObject()
             {
-                DbConnection = dbConnection,
+                DbConnection = Globals.TargetDb,
                 TableConnection = new SqlSupportTableConnection(Path.GetFileNameWithoutExtension(path))
             })
             .ToSqlTableFromSql();
