@@ -6,7 +6,7 @@
     <!-- <langVersion>11</langVersion> -->
 
     <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
+    <!-- <Nullable>enable</Nullable> -->
 
     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
     <CopyRefAssembliesToPublishDirectory>false</CopyRefAssembliesToPublishDirectory>

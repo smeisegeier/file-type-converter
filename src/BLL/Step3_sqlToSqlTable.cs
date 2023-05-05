@@ -22,7 +22,6 @@ public class Step3_sqlToSqlTable
                 TableConnection = new SqlSupportTableConnection(Path.GetFileNameWithoutExtension(path))
             })
             .ToSqlTableFromSql();
-
         }
     }
 

@@ -12,7 +12,7 @@ namespace Rki.CancerData.Clinical.TableConverter.App.BLL;
 public class Step2_jsonToSql
 {
 
-    public static void Start()
+    public static void Start(string schemaNameOverride = null)
     {
 
         foreach (var path in Converter.GetAllFilesInDir(StructureSupport.SerializerType.json))
@@ -20,7 +20,7 @@ public class Step2_jsonToSql
             (new ConverterObject()
             {
                 DbConnection = Globals.db_zfkd_fhirmeta,
-                TableConnection = new SqlSupportTableConnection(Path.GetFileNameWithoutExtension(path))
+                TableConnection = new SqlSupportTableConnection(Path.GetFileNameWithoutExtension(path), null, schemaNameOverride)
             })
             .ToSqlFromJson()
             .ToFile();
