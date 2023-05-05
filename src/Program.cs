@@ -6,11 +6,10 @@ using Rki.CancerData.Clinical.TableConverter.App.BLL;
 
 // todo enable these back, is not working on mac
 // Globals.TargetDb = Globals.db_zfkd_qscore;
-// Console.WriteLine("App started on " + Globals.HostType);
+Console.WriteLine("App started on " + Globals.HostType);
 
-// todo! fix + doc the config prob on WIN first, then mac
 
-// Step0_fhirToJson.Start();
+Step0_fhirToJson.Start();
 // Step0_xmlToJson.Start();
 // Step0_sqlTableToCsv.Start();
 

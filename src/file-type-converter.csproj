@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net7.0</TargetFramework>
-    <langVersion>11</langVersion>
+    <!-- <langVersion>11</langVersion> -->
 
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
@@ -33,11 +33,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="**/.config/*.*">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
-    <Content Include="**/.config">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    <Content Include="../.config/**">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
 

@@ -47,6 +47,41 @@
     <PackageReference Include="System.Configuration.ConfigurationManager" Version="7.0.0" />
   </ItemGroup>
 ```
+
+### local settings
+
+- to avoid exposing passwd to public, all credentials are retrieved from a untracked file `.config/settings.config`
+- passwd reside in secure vault like bitwarden
+- file is copied to `/bin` via `.csproj` include command
+- `settings.config`
+
+```xml
+<?xml version="1.0" encoding="utf-8"?>
+<appSettings>
+    <add key="server_rki_prod" value="xxx" />
+    <add key="server_rki_test" value="yyy" />
+</appSettings>
+```
+
+- `.csproj`
+
+```xml
+  <ItemGroup>
+    <Content Include="../.config/**">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+```
+
+- link settings file in `app.config`
+
+```xml
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+    <appSettings configSource="settings.config" />
+</configuration>
+```
+
 ## xslt
 
 ### goal
@@ -85,4 +120,3 @@
 - [data2type](https://www.data2type.de/xml-xslt-xslfo/xslt#c45)
 - [SO](https://stackoverflow.com/questions/38267254/xslt-apply-two-different-template-in-sequence)
 - [deltaXML](https://marketplace.visualstudio.com/items?itemName=deltaxml.xslt-xpath)
-
