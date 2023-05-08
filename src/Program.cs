@@ -4,7 +4,6 @@ using Rki.CancerData.Clinical.TableConverter.App;
 using Rki.CancerData.Clinical.TableConverter.App.BLL;
 
 
-// todo enable these back, is not working on mac
 Globals.TargetDb = Globals.db_local_testdb;
 
 Console.WriteLine("App started on " + Globals.HostType);
@@ -16,11 +15,11 @@ Console.WriteLine("App started on " + Globals.HostType);
 
 // Step1_jsonToCsv.Start();
 
-Step2_csvToSql.Start("meta");
+// Step2_csvToSql.Start("meta");
 
 // Step2_jsonToSql.Start("meta");
 
-Step3_sqlToSqlTable.Start();
+// Step3_sqlToSqlTable.Start();
 //Step3_csvToJsonOut.Start();
 
 
