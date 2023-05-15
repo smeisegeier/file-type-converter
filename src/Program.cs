@@ -4,7 +4,7 @@ using Rki.CancerData.Clinical.TableConverter.App;
 using Rki.CancerData.Clinical.TableConverter.App.BLL;
 
 
-// todo enable these back, is not working on mac
+
 Globals.TargetDb = Globals.db_zfkd_meta_clin;
 
 Console.WriteLine("App started on " + Globals.HostType);
