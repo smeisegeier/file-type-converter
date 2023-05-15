@@ -102,7 +102,6 @@ public static class ConverterExtensions
         return con;
     }
 
-    // todo add custom folder in path, check on recursive behaviour
     public static ConverterObject ToFile(this ConverterObject con)
     {
         // overriden String.ToFile()
