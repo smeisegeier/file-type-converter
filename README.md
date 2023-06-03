@@ -50,7 +50,10 @@
 
 ### local settings
 
-- to avoid exposing passwd to public, all credentials are retrieved from a untracked file `.config/settings.config`
+<!-- #localsettings #config-->
+
+- to avoid exposing passwd to public, all credentials are retrieved from a **untracked** file `.config/settings.config`
+- dont forget to have `.config/` added to `gitignore`
 - passwd reside in secure vault like bitwarden
 - file is copied to `/bin` via `.csproj` include command
 - `settings.config`
@@ -73,6 +76,8 @@
   </ItemGroup>
 ```
 
+> note: this copies the single file, NOT the folder
+
 - link settings file in `app.config`
 
 ```xml
@@ -80,6 +85,20 @@
 <configuration>
     <appSettings configSource="settings.config" />
 </configuration>
+```
+
+- retrieve `.config/settings.config` in code
+
+```csharp
+public readonly static string? SERVER_RKI_PROD =
+  System.Configuration.ConfigurationManager.AppSettings
+  .Get("server_rki_prod");
+```
+
+> note: to make this work, you must include
+
+```xml
+<PackageReference Include="System.Configuration.ConfigurationManager" Version="7.0.0" />
 ```
 
 ## xslt
@@ -113,7 +132,7 @@
 }
 ```
 
-7. `ctrl-shift-B` or _run build task_ (package loads components on first use) when _within_ the xslt
+1. `ctrl-shift-B` or _run build task_ (package loads components on first use) when _within_ the xslt
 
 ### resources
 
