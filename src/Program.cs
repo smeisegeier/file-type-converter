@@ -16,7 +16,7 @@ Console.WriteLine("App started on " + Globals.HostType);
 
 // Step1_jsonToCsv.Start();
 
-// Step2_csvToSql.Start("dim");
+// Step2_csvToSql.Start("sf");
 // Step2_jsonToSql.Start("meta");
 
 // todo still buggy when table already exists?

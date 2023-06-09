@@ -27,6 +27,6 @@ public static class Globals
     public static SqlSupportDbConnection db_zfkd_caress { get; private set; } = new SqlSupportDbConnection("CARESS9100_2021", Globals.SERVER_RKI_EPI);
     public static SqlSupportDbConnection db_zfkd_epi { get; private set; } = new SqlSupportDbConnection("ZfkdEpi2022", Globals.SERVER_RKI_EPI);
     public static SqlSupportDbConnection db_zfkd_meta_epi { get; private set; } = new SqlSupportDbConnection("ZfkdMeta2022", Globals.SERVER_RKI_EPI);
-    public static SqlSupportDbConnection db_zfkd_meta_clin { get; private set; } = new SqlSupportDbConnection("ClinMeta2022", Globals.SERVER_RKI_TEST);
+    public static SqlSupportDbConnection db_zfkd_meta_clin { get; private set; } = new SqlSupportDbConnection("ClinMeta2022", Globals.SERVER_RKI_PROD);
 
 }
