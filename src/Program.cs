@@ -16,10 +16,10 @@ Console.WriteLine("App started on " + Globals.HostType);
 
 // Step1_jsonToCsv.Start();
 
-// Step2_csvToSql.Start("sf");
+Step2_csvToSql.Start("meta");
 // Step2_jsonToSql.Start("meta");
 
-// todo still buggy when table already exists?
+// todo still buggy when table already exists? -> move sql drop statement w/ schema to dexterslab
 Step3_sqlToSqlTable.Start();
 
 
